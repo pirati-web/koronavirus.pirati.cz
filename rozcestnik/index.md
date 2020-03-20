@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rozcestník - koronavirus
+keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 ---
 
 ## Centrální informační linky
