@@ -3,20 +3,17 @@ layout: page
 title: Rozcestník - koronavirus
 ---
 
-
 ## Centrální informační linky
-
-
 
 <table>
   <tbody>
     <tr>
       <td width="50%"><strong>Bezplatná informační linka ke koronaviru</strong></td>
-      <td><strong>1212</strong></td>
+      <td width="50%"><strong>1212</strong></td>
     </tr>
     <tr>
       <td><strong>Nonstop infolinky Státního zdravotního ústavu (SZÚ)</strong></td>
-      <td><strong>724&nbsp;810&nbsp;106</strong>, &nbsp;&nbsp; <strong>725&nbsp;191&nbsp;367</strong>, &nbsp;&nbsp; <strong>725 &nbsp;191&nbsp;370</strong></td>
+      <td><strong>724 810 106</strong>, <strong>725 191 367</strong>, <strong>725 191 370</strong></td>
     </tr>
     <tr>
       <td>Pouze pro případ vážných zdravotních problémů či ohrožení života</td>
@@ -83,7 +80,6 @@ title: Rozcestník - koronavirus
   </tbody>
 </table>
 
-
 ### Další důležité linky
 
 
@@ -92,11 +88,11 @@ title: Rozcestník - koronavirus
     <tr>
       <td width="50%">Infolinka Ministerstva školství</td>
       <td width="30%"><strong>778 725 602</strong></td>
-      <td width="20%"> </td>
+      <td width="20%"></td>
     </tr>
     <tr>
       <td>Infolinka Ministerstva dopravy</td>
-      <td>CZ <strong>225 131 810</strong>,  EN <strong>225 131 820</strong></td>
+      <td>CZ <strong>225 131 810</strong>, EN <strong>225 131 820</strong></td>
       <td>8-20 h</td>
     </tr>
     <tr>
@@ -114,8 +110,20 @@ title: Rozcestník - koronavirus
       <td><strong>225 092 392</strong></td>
       <td> </td>
     </tr>
+    <tr>
+      <td>Call centrum Úřadu práce ČR</td>
+      <td><strong>844 844 803</strong></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Call centra České zprávy sociálního zabezpečení (ČSSZ)</td>
+      <td><strong>800 050 248</strong></td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
+
+
 
 <div class="row">
   <div class="medium-12 large-12 columns">
@@ -127,6 +135,7 @@ title: Rozcestník - koronavirus
   </div>
 </div>
 <p></p>
+
 
 
 
@@ -158,7 +167,11 @@ title: Rozcestník - koronavirus
 
 [Ministerstvo zemědělství (MZe)]( http://eagri.cz/public/web/mze/)
 
-[Ministerstvo spravedlnosti (MS):](https://www.justice.cz/)
+[Ministerstvo spravedlnosti (MS)](https://www.justice.cz/)
+
+[Úřad práce](https://www.uradprace.cz/)
+
+[Česká správa sociálního zabezpečení](https://www.cssz.cz/)
 
 [Magistrát hlavního města Prahy]( https://bezpecnost.praha.eu/udalosti/neco-se-deje_24_2_2020)
 
@@ -167,7 +180,7 @@ title: Rozcestník - koronavirus
 
 [Česká televize](https://ct24.ceskatelevize.cz/specialy/3037207-koronavirus) - rozcestník pro kraje
 
-[Český rozhlas](https://portal.rozhlas.cz/)
+[iRozhlas](https://www.irozhlas.cz/koronavirus)
 
 
 ### Poradny
@@ -196,7 +209,11 @@ title: Rozcestník - koronavirus
 
 [Komora daňových poradců ČR](https://www.kdpcr.cz/)
 
+[Jak nárokovat náhradu škody způsobenou krizovými opatřeními vlády?](https://www.davidzahumensky.cz/2020/03/18/jak-narokovat-nahradu-skody-zpusobenou-krizovymi-opatrenimi-vlady/) - právní poradenství
+
 ### Dobrovolníci
+
+[Mapa pomoci](https://www.google.com/maps/d/u/0/viewer?mid=1QFosGdbkLSW1reiik0QHri-Itw26w616&ll=49.85650203205556%2C15.53335108177339&z=8&utm_source=81180-Milion%20chvilek&utm_medium=email&utm_term=4498694831&utm_content=MAPU%20POMOCI&utm_campaign=Newsletter--20200319&fbclid=IwAR2Wz4AlA90gBwIxwN0-C9lG060JgBWeCqOjGrp-k7I8lnghCyenoFyPsfo)
 
 [damerousky.cz](https://www.damerousky.cz) - sdílení podomácku vyrobených roušek
 
@@ -207,6 +224,10 @@ title: Rozcestník - koronavirus
 [ČT 24 pomáhá](https://www.facebook.com/groups/ct24pomaha) - facebook
 
 [Praha pomáhá potřebným](https://www.facebook.com/groups/207938513604708/) - facebooková skupina pro nabádky pomoci
+
+[Dobro v době korony](https://www.facebook.com/groups/603883670162199/) - Brno a JmK
+
+[Prachatičáci pomáhají](https://www.facebook.com/groups/201383317761484/?hc_location=group) - facebooková skupina
 
 [Návod pro pomocníky](https://pomocsousedum.cz)
 
@@ -220,11 +241,38 @@ title: Rozcestník - koronavirus
 
 [Pomáháme Praze 2020](https://sites.google.com/view/dobrovolnik-covid19) - Český červený kříž
 
-[Prachatičáci pomáhají](https://www.facebook.com/groups/201383317761484/?hc_location=group) - facebooková skupina
-
 [Návštěvy POTMĚ](http://www.navstevypotme.cz) - telefonní návštěvy zrakově postižených u seniorů
 
 [Krása pomoci](https://www.krasapomoci.cz/) - ucelené informace o pomoci seniorům
 
+[Skaut](https://www.skaut.cz/aktuality/) - pomoc rodinám a seniorům
+
+[Vzdělávání na dálku](https://www.facebook.com/groups/566750707261579/) - facebooková skupina
+
 [Breakfaststory](https://www.breakfaststory.cz/karantena-special) - sociální podnik, rozvoz obědů ve spolupráci s Jídelnou Kuchařek bez domova, akce na podporu osamělých seniorů 
+
+
+### Další informace
+
+[Pandemický plán ČR](https://www.vlada.cz/assets/ppov/brs/dokumenty/Pandemicky_plan_CR.pdf)
+
+[Česká lékařská komora](https://www.lkcr.cz/aktuality-322.html)
+
+[Česká lékárnická komora](https://www.lekarnici.cz/)
+
+[Světová zdravotnická organizace (WHO)](https://www.who.int/)
+
+[Evropské centrum pro prevenci a výzkum chorob](https://www.ecdc.europa.eu/en)
+
+[Celosvětová mapa šíření](https://coronavirus.tghn.org/resources-dashboard/case-location-map/)
+
+[Zahraniční informace ke koronaviru](https://www.reddit.com/r/Coronavirus/)
+
+[Jak se koronavirus šíří (video)](https://youtu.be/4KFP3tay5vM)
+
+[Co byste měli vědět o koronaviru?(video)](https://www.mzcr.cz/dokumenty/co-byste-meli-vedet-o-koronaviru_18707_1.html)
+
+### Mapa pomoci
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1QFosGdbkLSW1reiik0QHri-Itw26w616" width="640" height="480"></iframe>
 
