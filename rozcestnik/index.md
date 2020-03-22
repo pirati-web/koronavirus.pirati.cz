@@ -222,6 +222,8 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [Pomoc do domu](https://www.pomocdodomu.cz/) - nabídky a poptávky pomoci
 
+[Sousedská pomoc](https://www.sousedskapomoc.cz/)
+
 [Život 90](https://www.zivot90.cz/cs) - nabídka k zapojení na **773 071 024**
 
 [ČT 24 pomáhá](https://www.facebook.com/groups/ct24pomaha) - facebook
