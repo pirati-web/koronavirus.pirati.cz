@@ -259,6 +259,8 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 ### Další informace
 
+[Přehled usnesení vlády ČR ke koronavirové pandemii](https://www.zakonyprolidi.cz/koronavirus?fbclid=IwAR2GRVIsPHDa3deRjKwsa4xFDe92qiosJsxkX7_NGLSaRHYcS53-moKCTYg) - Zákony pro lidi
+
 [Pandemický plán ČR](https://www.vlada.cz/assets/ppov/brs/dokumenty/Pandemicky_plan_CR.pdf)
 
 [Česká lékařská komora](https://www.lkcr.cz/aktuality-322.html)
@@ -276,6 +278,8 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 [Jak se koronavirus šíří (video)](https://youtu.be/4KFP3tay5vM)
 
 [Co byste měli vědět o koronaviru?(video)](https://www.mzcr.cz/dokumenty/co-byste-meli-vedet-o-koronaviru_18707_1.html)
+
+[okoronaviru.cz](https://www.okoronaviru.cz/) - Šíříme informace, ne paniku!
 
 [22 tipů jak si udržet vnitřní pohodu a energii v době krize](https://docs.google.com/document/d/1lVY-Vpq5S6l1W-WWl5bN0fKcgUk5qeSSzWI0Thb1DFo/edit?usp=sharing)
 
