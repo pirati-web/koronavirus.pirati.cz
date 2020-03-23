@@ -188,7 +188,7 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [Seznam Linek důvěry a psychologických krizových pracovišť ČR](https://docs.google.com/spreadsheets/d/13EXkYfI4rXBqDYQk5YO-8YL_63R18-W4dP-dhcY0ugs/edit?usp=sharing)
 
-[Dostupný advokát](https://dostupnyadvokat.cz/blog/pomoc-coronavirus)
+[Dostupný advokát](https://dostupnyadvokat.cz/blog/pomoc-coronavirus) - bezplatná právní pomoc
 
 [Život 90](https://www.zivot90.cz/cs) - informace pro seniory
 
