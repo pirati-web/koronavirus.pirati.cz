@@ -14,7 +14,7 @@ main:
     name: Úvod
   - link: /rozcestnik/
     name: Rozcestník
-  - link: /aktuality
+  - link: https://pirati.cz/koronavirus
     name: Aktuality
   - link: /reseni/
     name: Naše řešení
