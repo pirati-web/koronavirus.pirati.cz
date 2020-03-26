@@ -1,0 +1,80 @@
+﻿---
+layout: default
+#title: Directory - coronavirus
+ruce: 
+    title: Information video
+    id: "8Z679ocBIa0"
+rousky: 
+    title: Making face masks
+    id: "s-hsj4gTJPg"
+facebook:
+    profilePageName: Czech Pirate Party
+    profilePage: https://www.facebook.com/ceska.piratska.strana/
+img: 'header/koronavirus-core.png'
+rbar:
+   - video
+keywords: intro, pirates coronavirus, making face masks, video, volunteers
+---
+
+{% capture md %} 
+**Welcome to a website dedicated to quick retrieval of all the information related to the coronavirus pandemic.** 
+
+We are flooded with contact info, messages, news, calls to help and offers of help from all sides. It is difficult to pick the important ones or the really useful ones. It is hard to keep track of what is going on. And you usually need the information on contact details fast.
+
+We offer this directory to help you with looking up what you need - you can find here the key hotline numbers, important phone contacts to key institutions, links to crisis consultants that offer help and services related to the impacts of the State of Emergency, web links and Facebook pages that aggregate the help that is needed or volunteer offers.
+
+More information is included for all interested parties.
+
+*What can you find on this website?*
+
+- Current situation and an overview of the measures taken
+- [**directory**](/rozcestnik/) of important phone numbers and information websites
+- [**our solutions**](/reseni/) - suggestions from the Pirate workshop on how we believe things should, or could, work during crisis management of the country
+- [**news**](/aktuality/) - news on what we are working on and what has been accomplished
+
+
+
+
+We are monitoring and updating the current situation, contact list and proposed solutions on a regular basis.
+
+Suggestions are collected by 
+<a href="mailto:freitas.zuzana@gmail.com?Subject=koronavirus.pirati.cz">Zuzana Freitas Lopesová</a>
+(Assistant to MP Olga Richterová).
+Technical solution: Jitka Novotná
+
+Are you interested in what we do? **[Onboard](https://nalodeni.pirati.cz/) the Pirate ship.** 
+{% endcapture %}
+
+<div class="row">
+	{% if page.article-boxes %}
+		{% include article-box/three-in-row.html article-boxes=page.article-boxes %}
+	{% endif %}
+    {% include homepage/banner.html 
+       link='/reseni/'
+       title='How to fight the coronavirus together?'
+       default='https://a.pirati.cz/mo/img/banner/koronavirus.png'
+    %}
+
+    <div class="medium-12 large-8 columns">
+
+		<!-- Article -->
+		<article itemtype="http://schema.org/BlogPosting" itemscope="">
+			<link itemprop="mainEntityOfPage" href="{{ page.url }}">
+            {% capture content %} 
+            {{ md | markdownify }} 
+
+{{ md2 | markdownify }} 
+            {% endcapture %}
+            {% include page-header.html headline=page.title content=content %}
+		</article>
+		<!-- /Article -->
+	</div>
+	<div class="medium-12 large-4 columns">
+<aside class="o-section">
+  <div class="o-section-inner o-section-inner--rightBlock">
+      {% include right-bar/bar_video.html video=page.ruce %}
+      {% include right-bar/bar_video.html video=page.rousky %}
+  </div>
+</aside>
+	</div>
+</div>

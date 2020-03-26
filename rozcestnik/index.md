@@ -4,6 +4,11 @@ title: Rozcestník - koronavirus
 keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 ---
 
+<p id="en" style="text-align: right">
+<a href="/rozcestnik/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/cz.png" alt="cz"></a>
+<a href="/rozcestnik/en/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/gb.png" alt="gb"></a>
+</p>
+
 ## Centrální informační linky
 
 <table>
