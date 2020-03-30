@@ -82,9 +82,9 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
       <td>Bílý kruh bezpečí</td>
       <td><strong>116 006</strong></td>
       <td>nonstop</td>
-      <td>9-15 h</td>
     </tr>
-    <tr>Linka pro rodinu a školu</td>
+    <tr>
+      <td>Linka pro rodinu a školu</td>
       <td><strong>116 000</strong></td>
       <td>nonstop</td>
     </tr>
