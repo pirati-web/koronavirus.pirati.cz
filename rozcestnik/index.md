@@ -227,6 +227,8 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [damerousky.cz](https://www.damerousky.cz) - sdílení podomácku vyrobených roušek
 
+[Daruj zdravotníkovi respirátor](https://www.facebook.com/darujzdravotnikovirespirator/) - propojení nabídky a poptávky po ochranných pomůckách
+
 [Pomoc do domu](https://www.pomocdodomu.cz/) - nabídky a poptávky pomoci
 
 [Sousedská pomoc](https://www.sousedskapomoc.cz/)
@@ -261,6 +263,8 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [Skaut](https://www.skaut.cz/aktuality/) - pomoc rodinám a seniorům
 
+[Mimořádná pomoc pro rodiny s dětmi](https://www.nadacejt.cz/mimoradny-grant-v-souvislosti-s-koronavirem-k18.html?fbclid=IwAR3HdvSIhEjhF9vF8bMsL08_D3k9RC-XL6UOG2JPdVP0BbFmbCMU_h4IAmw) - grant Nadace J&T
+
 [Vzdělávání na dálku](https://www.facebook.com/groups/566750707261579/) - facebooková skupina
 
 [Breakfaststory](https://www.breakfaststory.cz/karantena-special) - sociální podnik, rozvoz obědů ve spolupráci s Jídelnou Kuchařek bez domova, akce na podporu osamělých seniorů 
@@ -269,6 +273,10 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 ### Další informace
 
 [Přehled usnesení vlády ČR ke koronavirové pandemii](https://www.zakonyprolidi.cz/koronavirus?fbclid=IwAR2GRVIsPHDa3deRjKwsa4xFDe92qiosJsxkX7_NGLSaRHYcS53-moKCTYg) - Zákony pro lidi
+
+[Mapa roušek](https://www.prolekare.cz/mapa-rousek) - přehled chybějícího materiálu v ČR
+
+[Přehled opatření vlády](http://koronavirus.jamu.cz/nouzovy-stav-a-prehled-opatreni.html) - přehled aktualizací a už zrušených opatření
 
 [Pandemický plán ČR](https://www.vlada.cz/assets/ppov/brs/dokumenty/Pandemicky_plan_CR.pdf)
 
