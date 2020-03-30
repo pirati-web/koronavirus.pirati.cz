@@ -1,0 +1,122 @@
+---
+layout: default
+#title: Rozcestník - koronavirus
+ruce: 
+    title: Informační video
+    id: "8Z679ocBIa0"
+rousky: 
+    title: Výroba roušek
+    id: "s-hsj4gTJPg"
+facebook:
+    profilePageName: Česká pirátská strana
+    profilePage: https://www.facebook.com/ceska.piratska.strana/
+img: 'header/koronavirus-core.png'
+rbar:
+   - video
+keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
+---
+
+{% capture md %} 
+<p id="en" style="text-align: right">
+<a href="/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/cz.png" alt="cz"></a>
+<a href="/en/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/gb.png" alt="gb"></a>
+</p>
+
+
+
+
+
+
+**Vítejte na stránkách, které slouží k rychlému dohledání zdrojů informací o všem, co souvisí s pandemií koronaviru.** 
+
+Kontakty, zprávy, informace, výzvy k pomoci nebo naopak nabídky pomoci se na nás hrnou ze všech stran. Je těžké vybrat ty hlavní nebo ty opravdu užitečné. Je těžké usledovat vše, co se děje. A většinou člověk potřebuje informaci nebo kontakt rychle.
+
+Nabízíme rozcestník, který vám hledání usnadní - najdete zde hlavní infolinky, důležité telefony na klíčové instituce, odkazy na krizové poradny, které nabízí pomoc a služby spojené s dopady nouzového stavu, odkazy na weby a facebookové stránky, které soustřeďují zájemce o pomoc nebo naopak nabídky pomoci.
+
+Pro zájemce připojujeme další informace.
+
+*Co na webu najdete?*
+
+- Aktuální situaci a přehled přijatých opatření
+- [**rozcestník**](/rozcestnik/) důležitých telefonních čísel a informačních webů
+- [**naše řešení**](/reseni/) - návrhy z pirátské dílny, jak by podle našeho názoru věci měly nebo mohly fungovat během krizového řízení státu
+- [**aktuality**](/aktuality/) - zprávy o tom, co podnikáme, a co se daří realizovat
+
+
+
+
+Aktuální situaci, kontakty i návrhy řešení budeme průběžně doplňovat. 
+
+Obsahová stránka a podněty:  
+<a href="mailto:freitas.zuzana@gmail.com?Subject=koronavirus.pirati.cz">Zuzana Freitas Lopesová</a>
+(asistentka poslankyně Olgy Richterové).
+
+Technické řešení: Jitka Novotná
+
+Zaujalo vás, co děláme? **[Naloďte se](https://nalodeni.pirati.cz/) na pirátskou palubu.**
+
+[Mimořádný newsletter k aktuální situaci](https://nalodeni.pirati.cz/news/list/58/)
+{% endcapture %}
+
+<div class="row">
+	{% if page.article-boxes %}
+		{% include article-box/three-in-row.html article-boxes=page.article-boxes %}
+	{% endif %}
+
+    <!-- Start WOWSlider.com HEAD section -->
+    <link rel="stylesheet" type="text/css" href="/assets/wowslider/sample/styles/style.css" />
+
+    <!-- Start WOWSlider.com BODY section -->
+    <div id="wowslider-container">
+      <div class="ws_images"><ul>
+      <li><a href="#"><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt="" title="" id="wows_0"/></a></li>
+      <li><a href="#"><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt="You can add description to slides!" title="text" id="wows_1"/></a></li>
+      <li><a href="#"><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt="" title="" id="wows_2"/></a></li>
+      </ul></div>
+      <div class="ws_bullets"><div>
+      <a href="#" title=""><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt=""/>1</a>
+      <a href="#" title="You can add description to slides!"><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt="text"/>2</a>
+      <a href="#" title=""><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt=""/>3</a>
+      </div></div>
+      <a href="#" class="ws_frame"></a>
+    </div>
+
+    <div class="medium-12 large-4 columns">
+      a
+    </div>
+    <div class="medium-12 large-4 columns">
+      b
+    </div>
+    <div class="medium-12 large-4 columns">      
+      c
+    </div>
+
+    
+    <div class="medium-12 large-8 columns">
+
+		<!-- Article -->
+		<article itemtype="http://schema.org/BlogPosting" itemscope="">
+			<link itemprop="mainEntityOfPage" href="{{ page.url }}">
+            {% capture content %} 
+            {{ md | markdownify }} 
+
+{{ md2 | markdownify }} 
+            {% endcapture %}
+            {% include page-header.html headline=page.title content=content %}
+		</article>
+		<!-- /Article -->
+	</div>
+	<div class="medium-12 large-4 columns">
+<aside class="o-section">
+  <div class="o-section-inner o-section-inner--rightBlock">
+      {% include right-bar/bar_video.html video=page.ruce %}
+      {% include right-bar/bar_video.html video=page.rousky %}
+  </div>
+</aside>
+	</div>
+</div>
+
+  <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="/assets/wowslider/wowslider.js"></script>
+  <script type="text/javascript" src="/assets/wowslider/sample/script.js"></script>
+  <!-- End WOWSlider.com BODY section -->
