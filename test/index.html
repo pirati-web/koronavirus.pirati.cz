@@ -12,6 +12,7 @@ facebook:
     profilePage: https://www.facebook.com/ceska.piratska.strana/
 img: 'header/koronavirus-core.png'
 rbar:
+   - facebook
    - video
 keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
 ---
@@ -63,20 +64,29 @@ Zaujalo vás, co děláme? **[Naloďte se](https://nalodeni.pirati.cz/) na pirá
 		{% include article-box/three-in-row.html article-boxes=page.article-boxes %}
 	{% endif %}
 
+    {% include homepage/banner.html 
+       link='/reseni/'
+       title='Jak se společně postavit koronaviru?'
+       default='https://a.pirati.cz/mo/img/banner/koronavirus.png'
+    %}
+
     <!-- Start WOWSlider.com HEAD section -->
     <link rel="stylesheet" type="text/css" href="/assets/wowslider/sample/styles/style.css" />
+
+    
+    <div class="medium-12 large-8 columns">
 
     <!-- Start WOWSlider.com BODY section -->
     <div id="wowslider-container">
       <div class="ws_images"><ul>
-      <li><a href="#"><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt="" title="" id="wows_0"/></a></li>
-      <li><a href="#"><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt="You can add description to slides!" title="text" id="wows_1"/></a></li>
-      <li><a href="#"><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt="" title="" id="wows_2"/></a></li>
+        <li><a href="#"><img src="/assets/img/banners/osvc.png" alt="" title="" id="wows_0"/></a></li>
+        <li><a href="#"><img src="/assets/img/banners/co-delat.jpg" alt="You can add description to slides!" title="text" id="wows_1"/></a></li>
+        <li><a href="#"><img src="/assets/img/banners/dane.jpg" alt="" title="" id="wows_2"/></a></li>
       </ul></div>
       <div class="ws_bullets"><div>
-      <a href="#" title=""><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt=""/>1</a>
-      <a href="#" title="You can add description to slides!"><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt="text"/>2</a>
-      <a href="#" title=""><img src="https://a.pirati.cz/mo/img/banner/koronavirus.png" alt=""/>3</a>
+      <a href="#" title=""><img src="/assets/img/banners/osvc.png" alt=""/>1</a>
+      <a href="#" title="You can add description to slides!"><img src="/assets/img/banners/co-delat.jpg" alt="text"/>2</a>
+      <a href="#" title=""><img src="/assets/img/banners/dane.jpg" alt=""/>3</a>
       </div></div>
       <a href="#" class="ws_frame"></a>
     </div>
@@ -91,8 +101,24 @@ Zaujalo vás, co děláme? **[Naloďte se](https://nalodeni.pirati.cz/) na pirá
       c
     </div>
 
-    
     <div class="medium-12 large-8 columns">
+      <img src="/assets/img/icons/a01_ochranne_pomucky.png" width="80" />
+      Dostupnost zdravotnického materiálu<br>
+      <img src="/assets/img/icons/a01_soc_syst.png" width="80" />
+      Řešení sociálních dopadů<br>
+      <img src="/assets/img/icons/a02_ekonomika.png" width="80" />
+      Ekonomické úlevy dle návrhu Pirátů<br>
+      <img src="/assets/img/icons/a03_leky.png" width="80" />
+      Léky v lékárnách a nemocnicích<br>
+      <img src="/assets/img/icons/b01_hledate.png" width="80" />
+      Potřebujete pomoct?<br>
+      <img src="/assets/img/icons/b02_prihlasit_se.png" width="80" />
+      Chcete pomáhzat<br>
+      <img src="/assets/img/icons/b03_mista.png" width="80" />
+      Mapa<br>
+      <img src="/assets/img/icons/b04_formular.png" width="80" />
+      Formulář<br>
+    </div>
 
 		<!-- Article -->
 		<article itemtype="https://schema.org/BlogPosting" itemscope="">
