@@ -284,6 +284,8 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [Přehled usnesení vlády ČR ke koronavirové pandemii](https://www.zakonyprolidi.cz/koronavirus?fbclid=IwAR2GRVIsPHDa3deRjKwsa4xFDe92qiosJsxkX7_NGLSaRHYcS53-moKCTYg) - Zákony pro lidi
 
+[Čeští výrobci ochranných pomůcek a zdravotních zařízení](https://docs.google.com/spreadsheets/d/1DEwsPIVBH-UbSSYEs1ZhYxBF6q8J4chqIU4fqF9D7UU/edit?usp=sharing)
+
 [Mapa roušek](https://www.prolekare.cz/mapa-rousek) - přehled chybějícího materiálu v ČR
 
 [Přehled opatření vlády](http://koronavirus.jamu.cz/nouzovy-stav-a-prehled-opatreni.html) - přehled aktualizací a už zrušených opatření
