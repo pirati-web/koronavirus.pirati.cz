@@ -1,8 +1,8 @@
 ---
 date:         2020-03-01
-tags:         zdravotnictví koronavirus praha
+tags:         zdravotnictví koronavirus MHMP
 title:        "V Praze se pravděpodobně objevily první případy nákazy koronavirem. K panice není důvod"
-image: 	      articles/2020/domy-slunce.jpg
+image: 	      articles/2020/mhmp/domy-slunce.jpg
 author:       MHMP
 ---
 
