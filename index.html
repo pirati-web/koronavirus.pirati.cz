@@ -19,10 +19,7 @@ rbar:
 keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
 ---
 {% capture panel %} 
-<p id="en" style="text-align: right">
-<a href="/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/cz.png" alt="cz"></a>
-<a href="/en/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/gb.png" alt="gb"></a>
-</p>
+
 Pro zájemce připojujeme další informace.
 
 *Co na webu najdete?*
@@ -75,12 +72,11 @@ Nabízíme rozcestník, který vám hledání usnadní - najdete zde hlavní inf
     <!-- Article -->
     <article itemtype="http://schema.org/BlogPosting" itemscope="">
       <link itemprop="mainEntityOfPage" href="{{ page.url }}">
-            {% capture content %} 
-            {{ md | markdownify }} 
-
-{{ md2 | markdownify }} 
-            {% endcapture %}
-            {% include page-header.html headline=page.title content=content %}
+        {% capture content %} 
+        {{ md | markdownify }} 
+        {{ md2 | markdownify }} 
+        {% endcapture %}
+        {% include page-header.html headline=page.title content=content %}
     </article>
     <!-- /Article -->    
 
@@ -99,13 +95,19 @@ Nabízíme rozcestník, který vám hledání usnadní - najdete zde hlavní inf
 
 	</div>
 	<div class="medium-12 large-4 columns">
-<aside class="o-section">
-  <div class="o-section-inner o-section-inner--rightBlock">
-    {{ panel | markdownify }} 
-      {% include right-bar/bar_video.html video=page.ruce %}
-      {% include right-bar/bar_video.html video=page.rousky %}
-      {% include right-bar/bar_video.html video=page.cisteni %}
-  </div>
-</aside>
+    <aside class="o-section">
+      <div class="o-section-inner o-section-inner--rightBlock">
+
+          <p id="en" style="text-align: right">
+          <a href="/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/cz.png" alt="cz"></a>
+          <a href="/en/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/gb.png" alt="gb"></a>
+          </p>    
+
+          {% include right-bar/bar_video.html video=page.ruce %}
+          {% include right-bar/bar_video.html video=page.rousky %}
+          {% include right-bar/bar_video.html video=page.cisteni %}
+          {{ panel | markdownify }} 
+      </div>
+    </aside>
 	</div>
 </div>
