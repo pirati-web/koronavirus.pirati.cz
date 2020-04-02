@@ -66,6 +66,34 @@ Zaujalo vás, co děláme? **[Naloďte se](https://nalodeni.pirati.cz/) na pirá
        default='https://a.pirati.cz/mo/img/banner/koronavirus.png'
     %}
 
+
+  <div class="medium-12 large-8 columns">
+    <section class="o-section o-section--spaceBot">
+      <div class="o-section-inner o-section-inner--leftBlock">
+        <header class="o-section-header">
+          <h1 class="o-section__heading t-h1-super">Piráti Praha 11</h1>
+        </header>
+          <p>
+Piráti jsou na Jižním Městě doma od roku 2018. Chceme vyčistit radnici od klientelismu a pochybných zakázek. Chceme Prahu 11, která bude moderní, přátelská, a především ochotná naslouchat svým občanům. Sledujte, co se u nás <a href="{{'/aktuality/' | relative_url}}" class="c-emphasized-anchor u-stacked" style="text-decoration: underline;">aktuálně</a> děje anebo nás <a href="{{'/podporte-nas/' | relative_url}}" class="c-emphasized-anchor u-stacked" style="text-decoration: underline;">pojďte podpořit</a>.</p><p>
+S <a href="{{'/lide/' | relative_url}}" class="c-emphasized-anchor u-stacked" style="text-decoration: underline;">našimi členy</a> se můžete setkávat na pirátských akcích či na veřejných setkáních. <a href="{{'/kontakt/' | relative_url}}" class="c-emphasized-anchor u-stacked" style="text-decoration: underline;">Buďme v kontaktu</a>.          
+          </p>
+
+          <h2>Aktuálně od Pirátů z Prahy 11 - Jižního Města</h2>
+        {% for article in site.posts limit: 6 %}
+          {% include articles/horizontal-article.html article=article %}
+        {% endfor %}
+        <div class="c-article-listing__nextbox">
+          <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
+        </div>
+      </div>
+    </section>
+  </div>
+  {% if page.rbar %}
+  <div class="medium-12 large-4 columns">
+    {% include right-bar/rbar.html param='rbar' %}
+  </div>
+  {% endif %}
+
     <div class="medium-12 large-8 columns">
 
 		<!-- Article -->
