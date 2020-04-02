@@ -57,7 +57,6 @@ Nabízíme rozcestník, který vám hledání usnadní - najdete zde hlavní inf
 
     <!-- Article -->
     <article itemtype="http://schema.org/BlogPosting" itemscope="">
-      <link itemprop="mainEntityOfPage" href="{{ page.url }}">
         {% capture content %} 
         {{ md | markdownify }} 
         {{ md2 | markdownify }} 
@@ -84,10 +83,10 @@ Nabízíme rozcestník, který vám hledání usnadní - najdete zde hlavní inf
     <aside class="o-section">
       <div class="o-section-inner o-section-inner--rightBlock">
 
-          <div id="en">
+          <p id="en" style="text-align: right">
           <a href="/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/cz.png" alt="cz"></a>
           <a href="/en/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/gb.png" alt="gb"></a>
-          </div>    
+          </p>    
 
           {% include right-bar/bar_video.html video=page.ruce %}
           {% include right-bar/bar_video.html video=page.rousky %}
