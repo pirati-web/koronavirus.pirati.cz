@@ -241,7 +241,7 @@ keywords: phones, hotlines, links, websites, information lines, help desks, dire
 
 [Charity of the Czech Republic](https://www.facebook.com/CharitaCR/) - Facebook
 
-[Hope](https://www.nadeje.cz/)
+[Naděje (Hope)](https://www.nadeje.cz/)
 
 [Seniore](https://seniore.org) - neighbourly help and mutual help for seniors
 
