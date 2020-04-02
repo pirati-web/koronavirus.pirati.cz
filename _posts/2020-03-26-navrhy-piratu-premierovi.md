@@ -1,7 +1,10 @@
 ---
 date:         2020-03-26
 category:     blog
-tags:         celostátní koronavirus legislativa
+tags:
+ - celostátní
+ - koronavirus
+ - legislativa
 layout:       post
 title:        "Piráti představí premiérovi návrhy k zajištění fungování zdravotnictví, zabezpečení ohrožených skupin a ochraně podnikatelů"
 image:        articles/2020/bartos-rouska.jpg

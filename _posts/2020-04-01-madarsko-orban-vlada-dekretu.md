@@ -1,7 +1,10 @@
 ---
 date:         2020-04-01
 category:     blog
-tags:         koronavirus evropská-unie zahraničí
+tags:         
+ - koronavirus 
+ - evropská unie
+ - zahraničí
 layout:       post
 title:        "Komentář Františka Kopřivy: V Maďarsku hrozí konec parlamentní demokracie. Další kroky premiéra vyžadují reakci"
 image:        articles/2020/kopriva.jpg

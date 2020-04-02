@@ -1,7 +1,10 @@
 ---
 date:         2020-03-29
 category:     blog
-tags:         zdravotnictví koronavirus legislativa
+tags:
+ - zdravotnictví
+ - koronavirus
+ - legislativa
 layout:       post
 title:        "Komentář Olgy Richterové: Ministerstvo zdravotnictví na můj návrh umožnilo doprovod u porodu ve výjimečných případech. Nechte přítomnost otců u porodu na uvážení porodnic!"
 image:        articles/2020/richterova.jpg

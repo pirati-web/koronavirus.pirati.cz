@@ -1,6 +1,9 @@
 ---
 date:         2020-03-27
-tags:         bydlení koronavirus MHMP
+tags:
+ - bydlení
+ - koronavirus
+ - MHMP
 title:        "Praha zprostředkuje lidem bez domova ubytování, podpoří tak vládní opatření proti šíření nákazy"
 image: 	      articles/2020/mhmp/adam-zabransky-5.jpg
 author:       Adam Zábranský
