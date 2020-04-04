@@ -24,13 +24,12 @@ layout: default
 </nav>
 
 
-
 <!-- Start WOWSlider.com HEAD section -->
-<link rel="stylesheet" type="text/css" href="/assets/wowslider/sample/styles/style.css" />
+<!-- <link rel="stylesheet" type="text/css" href="/assets/wowslider/sample/styles/style.css" /> -->
 
+<!-- Start WOWSlider.com BODY section -->
+<!--
 <div class="row" style="text-align: center">
-
-    <!-- Start WOWSlider.com BODY section -->
     <div id="wowslider-container">
       <div class="ws_images"><ul>
         <li><a href="#"><img src="/assets/img/banners/osvc.png" alt="" title="" id="wows_0"/></a></li>
@@ -44,9 +43,13 @@ layout: default
       </div></div>
       <a href="#" class="ws_frame"></a>
     </div>
-
 </div>
 
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/assets/wowslider/wowslider.js"></script>
+<script type="text/javascript" src="/assets/wowslider/sample/script.js"></script>
+-->
 
 
 <div class="pce-hero pce-hero--entry">
@@ -255,23 +258,32 @@ layout: default
                   </div>
                 </div>
               </div>
-              <h3>Základní body:</h3>
-              <div>
-                <table>
-                  <thead>
-                    <tr><th>Název</th></tr>
-                  </thead>
-                  <tbody>
-                    <tr><td>Předvídatelnost a jistota vládních kroků - milníky dalšího postupu</td></tr>
-                    <tr><td>Nezapomenout na nejohroženější skupiny</td></tr>
-                    <tr><td>Odpustit OSVČ bez příjmů povinné odvody</td></tr>
-                    <tr><td>Prodloužit ošetřovné a rozšířit ho i na OSVČ</td></tr>
-                    <tr><td>Podpořit kurzarbeit – zvýšit podíl státu na mzdových nákladech a zjednodušit byrokracii </td></tr>
-                    <tr><td>Odlehčit zaměstnavatelům v zasažených odvětvích odpuštěním sociálních a daňových odvodů z práce za zaměstnance</td></tr>
-                    <tr><td>Poskytovat bezúročné půjčky i v menším objemu, než 500 000 Kč</td></tr>
-                    <tr><td>Nemocenskou za lidi v karanténě musí hradit stát ze 100% i nad rámec programu antivirus</td></tr>
-                  </tbody>
-                </table>
+
+              <div class="medium-6 columns">
+                <h3>Základní body:</h3>
+                <div>
+                  <table>
+                    <thead>
+                      <tr><th>Název</th></tr>
+                    </thead>
+                    <tbody>
+                      <tr><td>Předvídatelnost a jistota vládních kroků - milníky dalšího postupu</td></tr>
+                      <tr><td>Nezapomenout na nejohroženější skupiny</td></tr>
+                      <tr><td>Odpustit OSVČ bez příjmů povinné odvody</td></tr>
+                      <tr><td>Prodloužit ošetřovné a rozšířit ho i na OSVČ</td></tr>
+                      <tr><td>Podpořit kurzarbeit – zvýšit podíl státu na mzdových nákladech a zjednodušit byrokracii </td></tr>
+                      <tr><td>Odlehčit zaměstnavatelům v zasažených odvětvích odpuštěním sociálních a daňových odvodů z práce za zaměstnance</td></tr>
+                      <tr><td>Poskytovat bezúročné půjčky i v menším objemu, než 500 000 Kč</td></tr>
+                      <tr><td>Nemocenskou za lidi v karanténě musí hradit stát ze 100% i nad rámec programu antivirus</td></tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+
+              <div class="medium-6 columns">
+              <h3>Články k tématu:</h3>
+
+
               </div>
 
               <div class="pce-hero__cta">
@@ -315,23 +327,31 @@ Vyzýváme Ministerstvo práce a sociálních věcí, aby posílilo Úřady prá
                   </div>
                 </div>
               </div>
-              <h3>Základní body:</h3>
-              <div>
-                <table>
-                  <thead>
-                    <tr><th>Název</th></tr>
-                  </thead>
-                  <tbody>
-                    <tr><td>Plošné zastavení nařizování exekucí, případně zastavení mobiliárních exekucí</td></tr>
-                    <tr><td>Místní příslušnost exekutorů: princip 1 dlužník = 1 exekutor v místě bydliště</td></tr>
-                    <tr><td>Splácet nejdřív jistinu pak úrok</td></tr>
-                    <tr><td>Zvýšení minimální jistiny pro dražbu obydlí ze 30 tisíc na 100 tisíc korun</td></tr>
-                    <tr><td>Snížení státem uvalené daně z přidané hodnoty na odměny exekutorů</td></tr>
-                    <tr><td>Zastavování tzv. “nevymožitelných exekucí,” kde se za poslední 3 roky nepodařilo nic vymoci</td></tr>
-                    <tr><td>Vznik chráněného bankovního účtu</td></tr>
-                  </tbody>
-                </table>                
+
+              <div class="medium-6 columns">
+                <h3>Základní body:</h3>
+                <div>
+                  <table>
+                    <thead>
+                      <tr><th>Název</th></tr>
+                    </thead>
+                    <tbody>
+                      <tr><td>Plošné zastavení nařizování exekucí, případně zastavení mobiliárních exekucí</td></tr>
+                      <tr><td>Místní příslušnost exekutorů: princip 1 dlužník = 1 exekutor v místě bydliště</td></tr>
+                      <tr><td>Splácet nejdřív jistinu pak úrok</td></tr>
+                      <tr><td>Zvýšení minimální jistiny pro dražbu obydlí ze 30 tisíc na 100 tisíc korun</td></tr>
+                      <tr><td>Snížení státem uvalené daně z přidané hodnoty na odměny exekutorů</td></tr>
+                      <tr><td>Zastavování tzv. “nevymožitelných exekucí,” kde se za poslední 3 roky nepodařilo nic vymoci</td></tr>
+                      <tr><td>Vznik chráněného bankovního účtu</td></tr>
+                    </tbody>
+                  </table>
+                </div>
               </div>
+
+              <div class="medium-6 columns">
+              <h3>Články k tématu:</h3>
+
+              </div>              
 
               <div class="pce-hero__cta">
                   <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení exekucí</a>
@@ -373,27 +393,35 @@ Jde o skupinu, která stále zůstává bez adekvátní podpory. Přitom nejde j
                   </div>
                 </div>
               </div>
-              <h3>Základní body:</h3>
-              <div>
-                <table>
-                  <thead>
-                    <tr><th>Název</th></tr>
-                  </thead>
-                  <tbody>
-                    <tr><td>Žádosti o podporu a dávky elektronicky, bez elektronického podpisu</td></tr>
-                    <tr><td>Změnit možnosti využití dávky mimořádné okamžité pomoci i pro fyzické osoby s náhlým propadem příjmů (s dokládáním za aktuální měsíc)</td></tr>
-                    <tr><td>Definovat postup pro lidi bez domova v karanténě</td></tr>
-                    <tr><td>Umožnit krátkodobé převedení zaměstnanců sociálních služeb dle aktuálních potřeb</td></tr>
-                    <tr><td>Podpora pro lidi pracující na DPČ a DPP</td></tr>
-                    <tr><td>Podpora pro lidi s hendikepem, kterým se zhoršila dostupnost asistenčních a dalších služeb.</td></tr>
-                    <tr><td>Podpora pro lidi s nízkými invalidními důchody</td></tr>
-                    <tr><td>Podpora pro OBZP</td></tr>
-                    <tr><td>Nastavit pravidla pro fungování nocleháren, azylových domů apod</td></tr>
-                    <tr><td>Opatření na podporu dětí, jejichž rodiče byli hospitalizováni.</td></tr>
-                    <tr><td>Podpora pro lidi s PAS, duševním onemocněním, závislostmi.</td></tr>
-                  </tbody>
-                </table>
+
+              <div class="medium-6 columns">
+                <h3>Základní body:</h3>
+                <div>
+                  <table>
+                    <thead>
+                      <tr><th>Název</th></tr>
+                    </thead>
+                    <tbody>
+                      <tr><td>Žádosti o podporu a dávky elektronicky, bez elektronického podpisu</td></tr>
+                      <tr><td>Změnit možnosti využití dávky mimořádné okamžité pomoci i pro fyzické osoby s náhlým propadem příjmů (s dokládáním za aktuální měsíc)</td></tr>
+                      <tr><td>Definovat postup pro lidi bez domova v karanténě</td></tr>
+                      <tr><td>Umožnit krátkodobé převedení zaměstnanců sociálních služeb dle aktuálních potřeb</td></tr>
+                      <tr><td>Podpora pro lidi pracující na DPČ a DPP</td></tr>
+                      <tr><td>Podpora pro lidi s hendikepem, kterým se zhoršila dostupnost asistenčních a dalších služeb.</td></tr>
+                      <tr><td>Podpora pro lidi s nízkými invalidními důchody</td></tr>
+                      <tr><td>Podpora pro OBZP</td></tr>
+                      <tr><td>Nastavit pravidla pro fungování nocleháren, azylových domů apod</td></tr>
+                      <tr><td>Opatření na podporu dětí, jejichž rodiče byli hospitalizováni.</td></tr>
+                      <tr><td>Podpora pro lidi s PAS, duševním onemocněním, závislostmi.</td></tr>
+                    </tbody>
+                  </table>
+                </div>
               </div>
+
+              <div class="medium-6 columns">
+              <h3>Články k tématu:</h3>
+
+              </div>              
 
               <div class="pce-hero__cta">
                   <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení sociálních dopadů</a>
@@ -434,24 +462,32 @@ Jde o skupinu, která stále zůstává bez adekvátní podpory. Přitom nejde j
                   </div>
                 </div>
               </div>
-              <h3>Základní body:</h3>
-              <div>
-                <table>
-                  <thead>
-                    <tr><th>Název</th></tr>
-                  </thead>
-                  <tbody>
-                    <tr><td>Elektronické zápisy do škol</td></tr>
-                    <tr><td>Zachování dvou termínů u přijímacích zkoušek na SŠ</td></tr>
-                    <tr><td>Zachování možnosti odvolání proti rozhodnutí ředitele</td></tr>
-                    <tr><td>Posun termínu maturit, ne jejich rušení - podpora absolventů, kteří míří na trh práce</td></tr>
-                    <tr><td>Výukové skupiny pro žáky se speciálními vzdělávacími potřebami (SVP)</td></tr>
-                    <tr><td>Vybavení rodin ICT</td></tr>
-                    <tr><td>Podmínky fungování VŠ v době krize</td></tr>
-                    <tr><td>Revize rozpočtů v oblasti školství</td></tr>
-                  </tbody>
-                </table>
+
+              <div class="medium-6 columns">
+                <h3>Základní body:</h3>
+                <div>
+                  <table>
+                    <thead>
+                      <tr><th>Název</th></tr>
+                    </thead>
+                    <tbody>
+                      <tr><td>Elektronické zápisy do škol</td></tr>
+                      <tr><td>Zachování dvou termínů u přijímacích zkoušek na SŠ</td></tr>
+                      <tr><td>Zachování možnosti odvolání proti rozhodnutí ředitele</td></tr>
+                      <tr><td>Posun termínu maturit, ne jejich rušení - podpora absolventů, kteří míří na trh práce</td></tr>
+                      <tr><td>Výukové skupiny pro žáky se speciálními vzdělávacími potřebami (SVP)</td></tr>
+                      <tr><td>Vybavení rodin ICT</td></tr>
+                      <tr><td>Podmínky fungování VŠ v době krize</td></tr>
+                      <tr><td>Revize rozpočtů v oblasti školství</td></tr>
+                    </tbody>
+                  </table>
+                </div>
               </div>
+
+              <div class="medium-6 columns">
+              <h3>Články k tématu:</h3>
+
+              </div>               
 
               <div class="pce-hero__cta">
                   <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení školství</a>
@@ -463,8 +499,3 @@ Jde o skupinu, která stále zůstává bez adekvátní podpory. Přitom nejde j
     </div>
   </div>
 </div>
-
-
-<script type="text/javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="/assets/wowslider/wowslider.js"></script>
-<script type="text/javascript" src="/assets/wowslider/sample/script.js"></script>
