@@ -6,6 +6,7 @@ tags:
 - legislativa 
 - sněmovna 
 - zdravotnictví
+- sociální dopady
 layout:       post
 title:        "Piráti na zdravotním výboru prosadili možnost střídání rodičů během domácího ošetřování"
 image:        articles/2020/tresnak-richterova.jpg

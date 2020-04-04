@@ -6,6 +6,7 @@ tags:
 - zdravotnictví 
 - koronavirus 
 - MHMP
+- sociální dopady
 title:        "Šijete roušky? Praha je společně s Českým červeným křížem doručí potřebným"
 image: 	      articles/2020/mhmp/rousky.jpg
 author:       MHMP

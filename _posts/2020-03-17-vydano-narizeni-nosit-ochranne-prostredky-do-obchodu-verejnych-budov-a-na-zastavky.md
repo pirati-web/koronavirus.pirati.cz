@@ -6,6 +6,7 @@ tags:
 - bezpečnost 
 - koronavirus 
 - MHMP
+- sociální dopady
 title:        "Krizový štáb hl. m. Prahy doporučil rozšířit povinnost občanů nosit ochranné prostředky i do veřejných budov, obchodů a na zastávky MHD"
 image: 	      articles/2020/mhmp/magistrat2.jpg
 author:       MHMP

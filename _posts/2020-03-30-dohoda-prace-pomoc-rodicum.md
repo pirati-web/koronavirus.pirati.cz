@@ -5,6 +5,8 @@ tags:
 - zdravotnictví
 - koronavirus
 - legislativa
+- exekuce
+- sociální dopady
 layout:       post
 title:        "Komentář Olgy Richterové: Piráti chtějí pomoc pro všechny rodiče, i ty pracující na dohodu"
 image:        articles/2020/richterova1.jpg

@@ -5,6 +5,7 @@ tags:
 - koronavirus
 - evropská unie
 - ostatní
+- ekonomika
 layout:       post
 title:        "Markéta Gregorová: Jak je to s těmi penězi od EU proti koronaviru?"
 image:        articles/2020/gregorova.jpg

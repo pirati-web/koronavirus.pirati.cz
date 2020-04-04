@@ -5,6 +5,7 @@ tags:
 - celostátní 
 - kontrola moci a mocných 
 - koronavirus
+- sociální dopady
 layout:       post
 title:        "Piráti podali trestní oznámení v souvislosti s podezřelým prodejem roušek v době pandemie"
 image:        articles/2020/adela-sipova.jpg

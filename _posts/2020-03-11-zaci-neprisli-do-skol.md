@@ -6,6 +6,8 @@ tags:
 - školství 
 - koronavirus 
 - MHMP
+- školství
+- sociální dopady
 title:        "Do pražských škol dnes nepřišlo téměř 177 tisíc žáků. Rodiče, kteří musí s dětmi zůstat doma, dostanou potvrzení elektronicky"
 image: 	      articles/2020/mhmp/poctyzaku.jpg
 author:       MHMP

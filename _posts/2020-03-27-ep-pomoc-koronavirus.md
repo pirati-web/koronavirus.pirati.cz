@@ -5,6 +5,7 @@ tags:
 - evropská unie
 - koronavirus
 - mezinárodní
+- ekonomika
 layout:       post
 title:        "Piráti v Evropském parlamentu podpořili návrh na okamžitou pomoc proti koronavirové pandemii"
 image:        articles/2019/kolaja-marcel.jpg

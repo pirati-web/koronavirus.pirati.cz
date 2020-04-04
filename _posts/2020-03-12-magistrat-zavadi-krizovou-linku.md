@@ -6,6 +6,7 @@ tags:
 - zdravotnictví 
 - koronavirus 
 - MHMP
+- sociální dopady
 title:        "Praha zavádí krizovou linku 800 160 166 určenou pro seniory. Do pomoci seniorům zapojuje dobrovolníky i obchodníky"
 image: 	      articles/2020/mhmp/magistrat2.jpg
 author:       MHMP

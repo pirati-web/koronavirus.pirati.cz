@@ -7,6 +7,7 @@ tags:
 - zdravotnictví 
 - koronavirus 
 - MHMP
+- sociální dopady
 title:        "Krizový štáb hl. m. Prahy vyzývá Ministerstvo zdravotnictví ČR, aby umožnilo dlouhodobý provoz a rozšíření kapacit akreditovaných laboratoří "
 image: 	      articles/2020/mhmp/tk-koronavirus.jpg
 author:       MHMP

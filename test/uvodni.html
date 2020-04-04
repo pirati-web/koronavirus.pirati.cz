@@ -232,7 +232,7 @@ layout: default
                   {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","zdravotnictví"  %}
 
                   <ul>
-                  {% for post in sorted-posts limit:5 %}
+                  {% for post in sorted-posts limit: 10 %}
                     <li>{{ post.date | date: "%d.%m.%Y" }} - <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
                   {% endfor %}
                   </ul>
@@ -240,7 +240,7 @@ layout: default
               </div>
 
               <div class="medium-12 pce-hero__cta">
-                  <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení ekonomiky a financí</a>
+                  <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení pro zdravotnictví</a>
               </div>              
             </article>         
           </div>
@@ -306,7 +306,7 @@ layout: default
                   {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","ekonomika"  %}
 
                   <ul>
-                  {% for post in sorted-posts limit:5 %}
+                  {% for post in sorted-posts limit: 10 %}
                     <li>{{ post.date | date: "%d.%m.%Y" }} - <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
                   {% endfor %}
                   </ul>
@@ -314,7 +314,7 @@ layout: default
               </div>
 
               <div class="medium-12 pce-hero__cta">
-                  <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení ekonomiky a financí</a>
+                  <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení pro ekonomiku a finance</a>
               </div>              
             </article>
           </div>
@@ -336,8 +336,7 @@ layout: default
               <div class="row">
                 <div class="l-prg__content columns medium-10 text-left pull-right">
                 <h2 class="l-prg__card-title">Dluhy, exekuce, insolvence</h2>
-                <p>
-Vyzýváme Ministerstvo práce a sociálních věcí, aby posílilo Úřady práce, které v této chvíli nestíhají vyplácet příspěvky. Nadále upozorňujeme, že v regionech se silnou koncentrací dlužníků může dojít vlivem zhroucení černého pracovního trhu k masivním sociálním problémům, které mohou přerůst až v občanské nepokoje a rabování. Vládě České republiky doporučujeme, aby si pro tyto krizové případy přichystala plán a zároveň doporučujeme několik opatření, které by mohly eskalaci situace předejít.
+                <p>Vyzýváme Ministerstvo práce a sociálních věcí, aby posílilo Úřady práce, které v této chvíli nestíhají vyplácet příspěvky. Nadále upozorňujeme, že v regionech se silnou koncentrací dlužníků může dojít vlivem zhroucení černého pracovního trhu k masivním sociálním problémům, které mohou přerůst až v občanské nepokoje a rabování. Vládě České republiky doporučujeme, aby si pro tyto krizové případy přichystala plán a zároveň doporučujeme několik opatření, které by mohly eskalaci situace předejít.
                 </p>
                 <h5 class="l-prg__garant-name">Lukáš Kolářík <div class="l-kan__item-img l-prg__garant-img">
                   <img src="https://www.pirati.cz/assets/img/people/lukas-kolarik.jpg" alt="Lukáš Kolářík"/>
@@ -381,7 +380,7 @@ Vyzýváme Ministerstvo práce a sociálních věcí, aby posílilo Úřady prá
                   {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","exekuce"  %}
 
                   <ul>
-                  {% for post in sorted-posts limit:5 %}
+                  {% for post in sorted-posts limit: 10 %}
                     <li>{{ post.date | date: "%d.%m.%Y" }} - <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
                   {% endfor %}
                   </ul>
@@ -459,7 +458,7 @@ Jde o skupinu, která stále zůstává bez adekvátní podpory. Přitom nejde j
                   {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","práce a sociální věci"  %}
 
                   <ul>
-                  {% for post in sorted-posts limit:5 %}
+                  {% for post in sorted-posts limit: 10 %}
                     <li>{{ post.date | date: "%d.%m.%Y" }} - <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
                   {% endfor %}
                   </ul>
@@ -533,7 +532,7 @@ Jde o skupinu, která stále zůstává bez adekvátní podpory. Přitom nejde j
                   {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","školství"  %}
 
                   <ul>
-                  {% for post in sorted-posts limit:5 %}
+                  {% for post in sorted-posts limit: 10 %}
                     <li>{{ post.date | date: "%d.%m.%Y" }} - <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
                   {% endfor %}
                   </ul>

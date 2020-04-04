@@ -7,6 +7,7 @@ tags:
 - bezpečnost 
 - koronavirus 
 - MHMP
+- sociální dopady
 title:        "Krizový štáb hl. m. Prahy jednal o odběrových místech, o dětských skupinách, ochranných prostředcích a také o pomoci osobám bez domova"
 image: 	      articles/2020/mhmp/magistrat3.jpg
 author:       MHMP

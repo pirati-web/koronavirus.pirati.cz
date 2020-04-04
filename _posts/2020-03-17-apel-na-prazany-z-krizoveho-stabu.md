@@ -7,6 +7,7 @@ tags:
 - zdravotnictví 
 - koronavirus 
 - MHMP
+- sociální dopady
 title:        "Krizový štáb hl. m. Prahy apeluje na Pražany: Používejte ochranné prostředky v MHD i v obchodech"
 image: 	      articles/2020/mhmp/tk-koronavirus.jpg
 author:       MHMP

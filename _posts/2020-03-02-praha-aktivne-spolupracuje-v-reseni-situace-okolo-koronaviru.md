@@ -6,6 +6,7 @@ tags:
 - zdravotnictví
 - koronavirus
 - MHMP
+- sociální dopady
 title:        "Praha aktivně spolupracuje na řešení situace kolem výskytu koronaviru. Sociálním zařízením doporučí omezení návštěv"
 image: 	      articles/2020/mhmp/magistrat2.jpg
 author:       MHMP

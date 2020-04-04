@@ -7,6 +7,7 @@ tags:
 - zdravotnictví 
 - koronavirus 
 - MHMP
+- sociální dopady
 title:        Krizový štáb hl. m. řeší dostupnost lékařů v souvislosti s nedostatkem ochranných prostředků"
 image: 	      articles/2020/mhmp/magistrat2.jpg
 author:       MHMP

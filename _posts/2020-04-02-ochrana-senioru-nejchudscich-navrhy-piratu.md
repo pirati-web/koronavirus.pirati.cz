@@ -6,6 +6,7 @@ tags:
 - exekuce 
 - celostátní 
 - legislativa
+- sociální dopady
 layout:       post
 title:        "Vláda kašle na nejohroženější skupiny obyvatel. Piráti představili návrhy na ochranu seniorů, pracovníků v sociálních službách, nejchudších pracujících i lidí v exekucích"
 image:        articles/2020/tk-koronavirus-duben.jpg

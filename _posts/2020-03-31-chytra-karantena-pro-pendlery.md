@@ -4,6 +4,7 @@ category:     blog
 tags:
 - koronavirus
 - legislativa
+- sociální dopady
 layout:       post
 title:        "Piráti navrhli systémové řešení pro pendlery, chtějí „chytrou karanténu“"
 image:        articles/2020/tresnak.jpg

@@ -7,6 +7,7 @@ tags:
 - zdravotnictví 
 - koronavirus 
 - MHMP
+- sociální dopady
 title:        "Krizový štáb hl. m. Prahy řeší nová odběrová místa v Praze a opět nedostatek ochranných prostředků"
 image: 	      articles/2020/mhmp/magistrat3.jpg
 author:       MHMP

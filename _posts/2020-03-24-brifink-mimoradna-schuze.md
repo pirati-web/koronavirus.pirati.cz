@@ -6,6 +6,7 @@ tags:
 - sněmovna 
 - legislativa 
 - koronavirus
+- ekonomika
 layout:       post
 title:        "Ministerstva částečně vyslyšela ekonomické návrhy Pirátů, o dalších úlevách pro občany budou jednat odpoledne"
 image:        articles/2020/tk-korona.JPG

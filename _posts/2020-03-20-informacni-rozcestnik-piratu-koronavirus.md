@@ -4,8 +4,9 @@ category:     blog
 tags:         
 - celostátní 
 - zdravotnictví 
-- finance 
+- ekonomika
 - koronavirus
+- sociální dopady
 layout:       post
 title:        "Piráti spustili web s informačním rozcestníkem a vlastními návrhy opatření v období epidemie"
 image:        articles/2020/richterova.jpg
