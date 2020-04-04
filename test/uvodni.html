@@ -259,9 +259,10 @@ layout: default
                 </div>
               </div>
 
-              <div class="medium-6 columns">
-                <h3>Základní body:</h3>
-                <div>
+              <div class="row">
+                <div class="columns medium-6">
+                  <h3>Základní body:</h3>
+
                   <table>
                     <thead>
                       <tr><th>Název</th></tr>
@@ -278,15 +279,22 @@ layout: default
                     </tbody>
                   </table>
                 </div>
+
+                <div class="columns medium-6">
+                <h3>Články k tématu:</h3>
+
+                  {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","ekonomika"  %}
+
+                  <ul>
+                  {% for post in sorted-posts limit:5 %}
+                    <li>{{ post.date | date: "%d.%m.%Y" }}
+                    <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
+                  {% endfor %}
+                  </ul>
+                </div>
               </div>
 
-              <div class="medium-6 columns">
-              <h3>Články k tématu:</h3>
-
-
-              </div>
-
-              <div class="pce-hero__cta">
+              <div class="medium-12 pce-hero__cta">
                   <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení ekonomiky a financí</a>
               </div>              
             </article>
@@ -328,30 +336,39 @@ Vyzýváme Ministerstvo práce a sociálních věcí, aby posílilo Úřady prá
                 </div>
               </div>
 
-              <div class="medium-6 columns">
-                <h3>Základní body:</h3>
-                <div>
+              <div class="row">
+                <div class="columns medium-6">
+                  <h3>Základní body:</h3>
+
                   <table>
                     <thead>
                       <tr><th>Název</th></tr>
                     </thead>
                     <tbody>
-                      <tr><td>Plošné zastavení nařizování exekucí, případně zastavení mobiliárních exekucí</td></tr>
-                      <tr><td>Místní příslušnost exekutorů: princip 1 dlužník = 1 exekutor v místě bydliště</td></tr>
-                      <tr><td>Splácet nejdřív jistinu pak úrok</td></tr>
-                      <tr><td>Zvýšení minimální jistiny pro dražbu obydlí ze 30 tisíc na 100 tisíc korun</td></tr>
-                      <tr><td>Snížení státem uvalené daně z přidané hodnoty na odměny exekutorů</td></tr>
-                      <tr><td>Zastavování tzv. “nevymožitelných exekucí,” kde se za poslední 3 roky nepodařilo nic vymoci</td></tr>
-                      <tr><td>Vznik chráněného bankovního účtu</td></tr>
+                    <tr><td>Plošné zastavení nařizování exekucí, případně zastavení mobiliárních exekucí</td></tr>
+                    <tr><td>Místní příslušnost exekutorů: princip 1 dlužník = 1 exekutor v místě bydliště</td></tr>
+                    <tr><td>Splácet nejdřív jistinu pak úrok</td></tr>
+                    <tr><td>Zvýšení minimální jistiny pro dražbu obydlí ze 30 tisíc na 100 tisíc korun</td></tr>
+                    <tr><td>Snížení státem uvalené daně z přidané hodnoty na odměny exekutorů</td></tr>
+                    <tr><td>Zastavování tzv. “nevymožitelných exekucí,” kde se za poslední 3 roky nepodařilo nic vymoci</td></tr>
+                    <tr><td>Vznik chráněného bankovního účtu</td></tr>
                     </tbody>
                   </table>
                 </div>
+
+                <div class="columns medium-6">
+                <h3>Články k tématu:</h3>
+
+                  {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","exekuce"  %}
+
+                  <ul>
+                  {% for post in sorted-posts limit:5 %}
+                    <li>{{ post.date | date: "%d.%m.%Y" }}
+                    <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
+                  {% endfor %}
+                  </ul>
+                </div>
               </div>
-
-              <div class="medium-6 columns">
-              <h3>Články k tématu:</h3>
-
-              </div>              
 
               <div class="pce-hero__cta">
                   <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení exekucí</a>
@@ -394,34 +411,43 @@ Jde o skupinu, která stále zůstává bez adekvátní podpory. Přitom nejde j
                 </div>
               </div>
 
-              <div class="medium-6 columns">
-                <h3>Základní body:</h3>
-                <div>
+              <div class="row">
+                <div class="columns medium-6">
+                  <h3>Základní body:</h3>
+
                   <table>
                     <thead>
                       <tr><th>Název</th></tr>
                     </thead>
                     <tbody>
-                      <tr><td>Žádosti o podporu a dávky elektronicky, bez elektronického podpisu</td></tr>
-                      <tr><td>Změnit možnosti využití dávky mimořádné okamžité pomoci i pro fyzické osoby s náhlým propadem příjmů (s dokládáním za aktuální měsíc)</td></tr>
-                      <tr><td>Definovat postup pro lidi bez domova v karanténě</td></tr>
-                      <tr><td>Umožnit krátkodobé převedení zaměstnanců sociálních služeb dle aktuálních potřeb</td></tr>
-                      <tr><td>Podpora pro lidi pracující na DPČ a DPP</td></tr>
-                      <tr><td>Podpora pro lidi s hendikepem, kterým se zhoršila dostupnost asistenčních a dalších služeb.</td></tr>
-                      <tr><td>Podpora pro lidi s nízkými invalidními důchody</td></tr>
-                      <tr><td>Podpora pro OBZP</td></tr>
-                      <tr><td>Nastavit pravidla pro fungování nocleháren, azylových domů apod</td></tr>
-                      <tr><td>Opatření na podporu dětí, jejichž rodiče byli hospitalizováni.</td></tr>
-                      <tr><td>Podpora pro lidi s PAS, duševním onemocněním, závislostmi.</td></tr>
+                    <tr><td>Žádosti o podporu a dávky elektronicky, bez elektronického podpisu</td></tr>
+                    <tr><td>Změnit možnosti využití dávky mimořádné okamžité pomoci i pro fyzické osoby s náhlým propadem příjmů (s dokládáním za aktuální měsíc)</td></tr>
+                    <tr><td>Definovat postup pro lidi bez domova v karanténě</td></tr>
+                    <tr><td>Umožnit krátkodobé převedení zaměstnanců sociálních služeb dle aktuálních potřeb</td></tr>
+                    <tr><td>Podpora pro lidi pracující na DPČ a DPP</td></tr>
+                    <tr><td>Podpora pro lidi s hendikepem, kterým se zhoršila dostupnost asistenčních a dalších služeb.</td></tr>
+                    <tr><td>Podpora pro lidi s nízkými invalidními důchody</td></tr>
+                    <tr><td>Podpora pro OBZP</td></tr>
+                    <tr><td>Nastavit pravidla pro fungování nocleháren, azylových domů apod</td></tr>
+                    <tr><td>Opatření na podporu dětí, jejichž rodiče byli hospitalizováni.</td></tr>
+                    <tr><td>Podpora pro lidi s PAS, duševním onemocněním, závislostmi.</td></tr>
                     </tbody>
                   </table>
                 </div>
+
+                <div class="columns medium-6">
+                <h3>Články k tématu:</h3>
+
+                  {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","sociální dopady"  %}
+
+                  <ul>
+                  {% for post in sorted-posts limit:5 %}
+                    <li>{{ post.date | date: "%d.%m.%Y" }}
+                    <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
+                  {% endfor %}
+                  </ul>
+                </div>
               </div>
-
-              <div class="medium-6 columns">
-              <h3>Články k tématu:</h3>
-
-              </div>              
 
               <div class="pce-hero__cta">
                   <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení sociálních dopadů</a>
@@ -463,31 +489,40 @@ Jde o skupinu, která stále zůstává bez adekvátní podpory. Přitom nejde j
                 </div>
               </div>
 
-              <div class="medium-6 columns">
-                <h3>Základní body:</h3>
-                <div>
+              <div class="row">
+                <div class="columns medium-6">
+                  <h3>Základní body:</h3>
+
                   <table>
                     <thead>
                       <tr><th>Název</th></tr>
                     </thead>
                     <tbody>
-                      <tr><td>Elektronické zápisy do škol</td></tr>
-                      <tr><td>Zachování dvou termínů u přijímacích zkoušek na SŠ</td></tr>
-                      <tr><td>Zachování možnosti odvolání proti rozhodnutí ředitele</td></tr>
-                      <tr><td>Posun termínu maturit, ne jejich rušení - podpora absolventů, kteří míří na trh práce</td></tr>
-                      <tr><td>Výukové skupiny pro žáky se speciálními vzdělávacími potřebami (SVP)</td></tr>
-                      <tr><td>Vybavení rodin ICT</td></tr>
-                      <tr><td>Podmínky fungování VŠ v době krize</td></tr>
-                      <tr><td>Revize rozpočtů v oblasti školství</td></tr>
+                    <tr><td>Elektronické zápisy do škol</td></tr>
+                    <tr><td>Zachování dvou termínů u přijímacích zkoušek na SŠ</td></tr>
+                    <tr><td>Zachování možnosti odvolání proti rozhodnutí ředitele</td></tr>
+                    <tr><td>Posun termínu maturit, ne jejich rušení - podpora absolventů, kteří míří na trh práce</td></tr>
+                    <tr><td>Výukové skupiny pro žáky se speciálními vzdělávacími potřebami (SVP)</td></tr>
+                    <tr><td>Vybavení rodin ICT</td></tr>
+                    <tr><td>Podmínky fungování VŠ v době krize</td></tr>
+                    <tr><td>Revize rozpočtů v oblasti školství</td></tr>
                     </tbody>
                   </table>
                 </div>
-              </div>
 
-              <div class="medium-6 columns">
-              <h3>Články k tématu:</h3>
+                <div class="columns medium-6">
+                <h3>Články k tématu:</h3>
 
-              </div>               
+                  {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","školství"  %}
+
+                  <ul>
+                  {% for post in sorted-posts limit:5 %}
+                    <li>{{ post.date | date: "%d.%m.%Y" }}
+                    <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
+                  {% endfor %}
+                  </ul>
+                </div>
+              </div>              
 
               <div class="pce-hero__cta">
                   <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení školství</a>
