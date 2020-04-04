@@ -1,7 +1,9 @@
 ---
 date:         2020-04-01
 category:     blog
-tags:         koronavirus exekuce
+tags:         
+ - koronavirus 
+ - exekuce
 layout:       post
 title:        "Komentář Lukáše Koláříka: Návrh na změkčení exekucí nemyslí na nové dlužníky"
 image:        articles/2020/kolarik.jpg

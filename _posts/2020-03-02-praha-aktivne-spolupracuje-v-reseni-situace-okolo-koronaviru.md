@@ -1,6 +1,9 @@
 ---
 date:         2020-03-02
-tags:         zdravotnictví koronavirus MHMP
+tags:         
+- zdravotnictví
+- koronavirus
+- MHMP
 title:        "Praha aktivně spolupracuje na řešení situace kolem výskytu koronaviru. Sociálním zařízením doporučí omezení návštěv"
 image: 	      articles/2020/mhmp/magistrat2.jpg
 author:       MHMP

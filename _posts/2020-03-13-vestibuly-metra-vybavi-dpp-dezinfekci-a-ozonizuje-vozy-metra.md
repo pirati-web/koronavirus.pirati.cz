@@ -1,6 +1,10 @@
 ---
 date:         2020-03-13
-tags:         bezpečnost doprava koronavirus MHMP
+tags:         
+- bezpečnost 
+- doprava 
+- koronavirus 
+- MHMP
 title:        "DPP rozšiřuje ozonizaci na vozy metra, vestibuly metra vybavuje dezinfekcí pro cestující"
 image: 	      articles/2020/mhmp/metro.jpg
 author:       MHMP

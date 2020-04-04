@@ -1,7 +1,9 @@
 ---
 date:         2020-04-02
 category:     blog
-tags:         koronavirus kontrola-moci-a-mocných
+tags:         
+ - koronavirus 
+ - kontrola moci a mocných
 layout:       post
 title:        "Pirátský poslanec Lukáš Černohorský podává trestní oznámení na obchodního zástupce Huawei v kauze dezinfekce prostor MČ Prahy 8"
 image:        articles/2020/cernohorsky1.jpg

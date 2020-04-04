@@ -1,7 +1,11 @@
 ---
 date:         2020-03-16
 category:     blog
-tags:         celostátní vláda legislativa koronavirus
+tags:         
+- celostátní 
+- vláda 
+- legislativa 
+- koronavirus
 layout:       post
 title:        "Na programu vlády je kontroverzní novela vojenského zpravodajství, Piráti varují před ztrátou soukromí na internetu"
 image:        articles/2020/profant-kopriva.jpg

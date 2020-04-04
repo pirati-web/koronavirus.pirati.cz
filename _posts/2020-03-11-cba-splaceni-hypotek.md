@@ -1,7 +1,10 @@
 ---
 date:         2020-03-11
 category:     blog
-tags:         sněmovna celostátní koronavirus
+tags:         
+- sněmovna 
+- celostátní 
+- koronavirus
 layout:       post
 title:        "Tomáš Martínek žádá ČBA, aby její členové zmírnili pravidla splácení hypoték a jiných úvěrů vzhledem k opatřením ke koronavirové nákaze"
 image:        articles/2020/martinek.jpg

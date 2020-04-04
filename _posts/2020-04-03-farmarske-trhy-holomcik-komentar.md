@@ -1,7 +1,10 @@
 ---
 date:         2020-04-03
 category:     blog
-tags:         koronavirus zemědělství legislativa
+tags:         
+ - koronavirus
+ - zemědělství
+ - legislativa
 layout:       post
 title:        "Komentář Radka Holomčíka: Není důvod dále zakazovat farmářské trhy"
 image:        articles/2020/holomcik.jpg

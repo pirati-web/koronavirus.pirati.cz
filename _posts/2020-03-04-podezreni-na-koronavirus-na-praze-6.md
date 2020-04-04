@@ -1,6 +1,10 @@
 ---
 date:         2020-03-04
-tags:         zdravotnictví praha-6 koronavirus MHMP
+tags:         
+- zdravotnictví 
+- Praha 6 
+- koronavirus 
+- MHMP
 title:        "Magistrát apeluje na respektování stávajících doporučení státní hygienické služby"
 image: 	      articles/2020/mhmp/praha6.jpg
 author:       MHMP

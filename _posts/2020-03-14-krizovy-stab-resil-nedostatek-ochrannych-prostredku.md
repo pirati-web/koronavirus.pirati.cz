@@ -1,6 +1,10 @@
 ---
 date:         2020-03-14
-tags:         bezpečnost zdravotnictví koronavirus MHMP
+tags:         
+- bezpečnost 
+- zdravotnictví 
+- koronavirus 
+- MHMP
 title:        "Krizový štáb hl. m. Prahy řešil zejména nedostatek osobních ochranných prostředků"
 image: 	      articles/2020/mhmp/krizovystab.jpg
 author:       MHMP

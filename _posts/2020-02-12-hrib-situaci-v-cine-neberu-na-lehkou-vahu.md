@@ -4,6 +4,7 @@ tags:
  - zahraničí
  - koronavirus 
  - praha
+ - zdravotnictví
 title:        "Zdeněk Hřib: Situaci v Číně neberu na lehkou váhu a považuji ji za kritickou"
 image: 	      articles/2020/hrib-kamera2.jpg
 author:       MHMP

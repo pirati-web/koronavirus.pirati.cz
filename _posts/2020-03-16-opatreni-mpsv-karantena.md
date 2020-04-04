@@ -1,7 +1,12 @@
 ---
 date:         2020-03-16
 category:     blog
-tags:         celostátní vláda zdravotnictví práce-a-sociální-věci koronavirus
+tags:         
+- celostátní 
+- vláda 
+- zdravotnictví 
+- práce a sociální-věci 
+- koronavirus
 layout:       post
 title:        "Jaká opatření chystá MPSV po zavedení celorepublikové karantény pro zajištění chodu úřadů práce nebo zařízení sociálních služeb, ptá se poslankyně Richterová"
 image:        articles/2020/richterova.jpg

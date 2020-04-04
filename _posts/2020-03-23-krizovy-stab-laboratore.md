@@ -1,6 +1,10 @@
 ---
 date:         2020-03-23
-tags:         bezpečnost zdravotnictví koronavirus MHMP
+tags:         
+ - bezpečnost 
+ - zdravotnictví 
+ - koronavirus 
+ - MHMP
 title:        "Krizový štáb hl. m. Prahy vyzývá Ministerstvo zdravotnictví ČR, aby umožnilo dlouhodobý provoz a rozšíření kapacit akreditovaných laboratoří "
 image: 	      articles/2020/mhmp/tk-koronavirus.jpg
 author:       MHMP

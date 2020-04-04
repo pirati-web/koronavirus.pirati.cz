@@ -1,7 +1,9 @@
 ---
 date:         2020-04-03
 category:     blog
-tags:         evropská-unie kontrola-moci-a-mocných
+tags:         
+ - evropská unie 
+ - kontrola moci a mocných
 layout:       post
 title:        "Odklad odpovědi na auditní zprávu Evropské komise je skandální. Piráti požadují od MMR vysvětlení"
 image:        articles/2020/michalek.jpg
