@@ -2,9 +2,9 @@
 date:         2020-03-31
 category:     blog
 tags:
- - koronavirus
- - zdravotnictví
- - plzeňský kraj
+- koronavirus
+- zdravotnictví
+- plzeňský kraj
 layout:       post
 title:        "Piráti tisknou ochranné štíty pro zdravotnická zařízení"
 image:        articles/2020/plzen-pirati-masky.png

@@ -1,10 +1,12 @@
 ---
+layout: post
+category: blog
 date:         2020-03-18
 tags:         
- - bezpečnost 
- - doprava 
- - koronavirus 
- - MHMP
+- bezpečnost 
+- doprava 
+- koronavirus 
+- MHMP
 title:        "V pražské MHD budou zavedeny prázdninové jízdní řády"
 image: 	      articles/2020/mhmp/metro.jpg
 author:       MHMP

@@ -1,10 +1,12 @@
 ---
+layout: post
+category: blog
 date:         2020-03-25
 tags:         
- - zdravotnictví 
- - bezpečnost 
- - koronavirus 
- - MHMP
+- zdravotnictví 
+- bezpečnost 
+- koronavirus 
+- MHMP
 title:        "Krizový štáb hl. m. Prahy jednal o odběrových místech, o dětských skupinách, ochranných prostředcích a také o pomoci osobám bez domova"
 image: 	      articles/2020/mhmp/magistrat3.jpg
 author:       MHMP

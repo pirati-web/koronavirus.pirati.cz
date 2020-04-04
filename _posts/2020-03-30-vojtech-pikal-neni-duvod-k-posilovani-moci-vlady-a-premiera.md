@@ -2,9 +2,9 @@
 date:         2020-03-30
 category:     blog
 tags:
- - celostátní
- - koronavirus
- - legislativa
+- celostátní
+- koronavirus
+- legislativa
 layout:       post
 title:        "Komentář Vojtěcha Pikala: Stav ohrožení a válečný stav bez rozhodnutí parlamentu? Není důvod k takovému posilování moci vlády a premiéra"
 image:        articles/2019/vojtech-pikal1.jpg

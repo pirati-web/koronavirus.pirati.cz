@@ -2,9 +2,9 @@
 date:         2020-03-26
 category:     blog
 tags:
- - mezinárodní
- - koronavirus
- - evropská unie
+- mezinárodní
+- koronavirus
+- evropská unie
 layout:       post
 title:        "Komentář místopředsedy EP Marcela Kolaji: Soukromí je červená linie, která se nesmí překročit"
 image:        articles/2020/kolaja.jpg

@@ -2,18 +2,15 @@
 date:         2020-04-02
 category:     blog
 tags:         
- - koronavirus 
- - exekuce 
- - celostátní 
- - legislativa
+- koronavirus 
+- exekuce 
+- celostátní 
+- legislativa
 layout:       post
 title:        "Vláda kašle na nejohroženější skupiny obyvatel. Piráti představili návrhy na ochranu seniorů, pracovníků v sociálních službách, nejchudších pracujících i lidí v exekucích"
 image:        articles/2020/tk-koronavirus-duben.jpg
 author:       Mediální odbor
 --- 
-
- 
-
 Praha, 2. dubna 2020 – „Vláda ČR fatálně selhává při zajišťování ochrany seniorů a v podpoře institucí poskytujících sociální služby v době pandemie. Nejenže nedokázala naplnit doporučení Evropského centra pro prevenci a kontrolu nemocí (ECDC) o testování v zařízeních pro seniory a umožnění včasné karantény a léčby, ale nedodržela ani vlastní sliby o zásobování osobními ochrannými pomůckami,“ uvedl na dnešní tiskové konferenci předseda Pirátů Ivan Bartoš. Spolu s dalšími pirátskými poslanci Olgou Richterovou a Mikulášem Ferjenčíkem uvedli řadu návrhů, které mají zajistit podporu nejrizikovějších skupin obyvatel. Jedná se nejen o seniory, ale i lidi, kteří nyní spadnou do dluhových pastí, invalidní důchodce, pracovníky na dohodu, terénní pracovníky, kteří jsou nyní bez ochranných pomůcek. A nelze zapomínat ani na ekonomická opatření na pomoc lidem bez jakýchkoli zdanitelných příjmů. „Čím méně lidí padne na úplné dno, tím bohatší ve finále bude celá společnost,“ dodal Bartoš.
 
 > „Podle odhadu je vážně ekonomicky zasaženo koronavirovou krizí přes 1,5 milionu občanů, které vláda nijak nepodporuje. Potřebujeme urychleně jasný plán, jak udržet v chodu sociální služby. Vláda nespustila postup dle pandemického plánu, který dává řízení do rukou hlavnímu hygienikovi ČR. Hygiena stále nedostatečně testuje a nevyjíždí do terénu. Víme, že limitem pro víc testů jsou chybějící pomůcky, zejména odběrové tyčinky, včetně baněk. Jedna věc je nastartovat jejich výrobu v ČR, druhá je využít hromadný test, tzv. pooling vzorků, dle příkladu Izraele. Prioritně v domovech seniorů, LDN či domovech pro osoby se zdravotním postižením, kde není předpokládána nákaza, abychom je dokázali udržet bez infekce. Na úrovni krajů navrhujeme zřízení mobilních týmů dvojího druhu. Jedny v případě prokázání infekce poskytnou na prvních 24 až 48 hodin domovům pro seniory veškerou péči s vytvořením izolace, a to včetně zaškolení. Druhá skupina týmů bude potřeba pro náhradu chybějících pracovníků v přímé péči, kde počítáme s nasazením studujících zdravotních sester,“ shrnula navrhovaná opatření místopředsedkyně Pirátů Olga Richterová.

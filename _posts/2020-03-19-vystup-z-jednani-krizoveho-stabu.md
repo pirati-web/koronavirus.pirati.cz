@@ -1,10 +1,12 @@
 ---
+layout: post
+category: blog
 date:         2020-03-19
 tags:         
- - bezpečnost 
- - zdravotnictví 
- - koronavirus 
- - MHMP
+- bezpečnost 
+- zdravotnictví 
+- koronavirus 
+- MHMP
 title:        "Krizový štáb hl. m. Prahy řeší nová odběrová místa v Praze a opět nedostatek ochranných prostředků"
 image: 	      articles/2020/mhmp/magistrat3.jpg
 author:       MHMP

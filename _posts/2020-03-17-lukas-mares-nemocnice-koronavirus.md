@@ -9,11 +9,11 @@ image: articles/2020/lmvrousce.jpg
 
 description: 'Informace k situaci v budějovické nemocnici od MUDr. Lukáše Mareše, zastupitele Českých Budějovic, předsedy lékařských odborů českobudějovické nemocnice a lékaře na radiologickém oddělení.'
 tags:
-  - Lukáš Mareš
-  - Události
-  - Zdravotnictví
-  - Koronavirus
-  - Jihočeský kraj
+- Lukáš Mareš
+- události
+- zdravotnictví
+- koronavirus
+- Jihočeský kraj
 ---
 Dnes jsem se jako předseda lékařských odborů českobudějovické nemocnice sešel s vedením kvůli připravenosti naší nemocnice a nezbytným opatřením, která se již zavedla, nebo se zavést plánují.
 

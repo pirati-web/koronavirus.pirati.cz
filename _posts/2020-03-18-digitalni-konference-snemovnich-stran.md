@@ -4,7 +4,7 @@ category:     blog
 tags:         
 - celostátní 
 - vláda 
-- zdravotnictví 
+- zdravotnictví
 - práce a sociální věci 
 - koronavirus
 layout:       post

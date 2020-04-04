@@ -2,10 +2,10 @@
 date:         2020-03-20
 category:     blog
 tags:         
- - celostátní 
- - zdravotnictví 
- - finance 
- - koronavirus
+- celostátní 
+- zdravotnictví 
+- finance 
+- koronavirus
 layout:       post
 title:        "Piráti spustili web s informačním rozcestníkem a vlastními návrhy opatření v období epidemie"
 image:        articles/2020/richterova.jpg

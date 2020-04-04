@@ -2,9 +2,9 @@
 date:         2020-03-25
 category:     blog
 tags:         
- - celostátní 
- - kontrola moci a mocných 
- - koronavirus
+- celostátní 
+- kontrola moci a mocných 
+- koronavirus
 layout:       post
 title:        "Piráti podali trestní oznámení v souvislosti s podezřelým prodejem roušek v době pandemie"
 image:        articles/2020/adela-sipova.jpg

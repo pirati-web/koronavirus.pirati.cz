@@ -2,9 +2,9 @@
 date:         2020-03-27
 category:     blog
 tags:
- - ekonomika
- - volby
- - legislativa
+- ekonomika
+- volby
+- legislativa
 layout:       post
 title:        "Komentář Jakuba Michálka: Vláda by měla zvážit náhradu škody podnikatelům podle vzorečku a napravit právní přešlapy v opatřeních"
 image:        articles/2020/michalek.jpg

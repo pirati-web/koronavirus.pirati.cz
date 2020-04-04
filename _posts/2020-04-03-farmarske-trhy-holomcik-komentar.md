@@ -2,15 +2,15 @@
 date:         2020-04-03
 category:     blog
 tags:         
- - koronavirus
- - zemědělství
- - legislativa
+- koronavirus
+- zemědělství
+- legislativa
+- ekonomie
 layout:       post
 title:        "Komentář Radka Holomčíka: Není důvod dále zakazovat farmářské trhy"
 image:        articles/2020/holomcik.jpg
 author:       Mediální odbor
 --- 
-
 Praha, 3. dubna 2020 – Pokud chceme zajistit zásobování veřejnosti potravinami a jít cestou k potravinové soběstačnosti (nebo se od ní alespoň co nejméně vzdálit), musíme podpořit každou rozumnou cestu, jak distribuovat potraviny ke koncovým zákazníkům. Řada zemědělců (a zejména zelinářů) je nyní v situaci, kdy řeší, zda má vůbec smysl letos sít a sázet a zda riziko velkých prodělků není příliš vysoké. Proto podporujeme zrušení zákazu fungování farmářských tržišť, samozřejmě za splnění bezpečnostních opatření.
  
 Již v minulém týdnu zaslali zástupci Asociace farmářských tržišť ministru zdravotnictví Adamu Vojtěchovi žádost o zrušení tohoto zákazu s tím, že dodali i návrh vlastního bezpečného řešení podoby výdeje zboží na tržištích. Ministr zdravotnictví na toto doposud nereagoval, čímž se jenom prohlubuje nejistota a tíživá situace našich producentů ovoce a zeleniny. Přitom podle informací od odborníků ze Státního zdravotního ústavu a také z Ústavu hematologie a krevní transfuze je výdej potravin venku bezpečnější, tedy méně rizikový než v prodejnách uvnitř. 

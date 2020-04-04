@@ -1,4 +1,6 @@
 ---
+layout: post
+category: blog
 date:         2020-03-14
 tags:         
 - bezpečnost 

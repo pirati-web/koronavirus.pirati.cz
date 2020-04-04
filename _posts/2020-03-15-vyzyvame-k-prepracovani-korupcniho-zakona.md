@@ -1,6 +1,7 @@
 ---
+layout: post
+category: blog
 date:         2020-03-15
-category:     blog
 tags:         
 - celostátní 
 - vláda 

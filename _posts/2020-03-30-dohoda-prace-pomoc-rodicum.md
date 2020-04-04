@@ -2,9 +2,9 @@
 date:         2020-03-30
 category:     blog
 tags:
- - zdravotnictví
- - koronavirus
- - legislativa
+- zdravotnictví
+- koronavirus
+- legislativa
 layout:       post
 title:        "Komentář Olgy Richterové: Piráti chtějí pomoc pro všechny rodiče, i ty pracující na dohodu"
 image:        articles/2020/richterova1.jpg

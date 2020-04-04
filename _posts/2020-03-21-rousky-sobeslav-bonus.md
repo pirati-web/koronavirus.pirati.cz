@@ -9,10 +9,10 @@ image: articles/2020/rousky2.jpg
 
 description: 'Přes vikend jsme s Piráty pro Soběslav naplánovali systém sběru materiálu, jeho bezpečnou distribuci včetně dezinfekce, šití a následnou distribuci k lidem.'
 tags:
-  - Soběslav
-  - Události
-  - Zdravotnictví
-  - Pozvánka
+- Soběslav
+- Události
+- Zdravotnictví
+- Pozvánka
 ---
 **Od neděle se snažíme šít v Soběslavi roušky. Přes vikend jsme s Piráty pro Soběslav naplánovali systém sběru materiálu, jeho bezpečnou distribuci včetně dezinfekce, šití a následnou distribuci k lidem. Celé jsme to rozjeli, ale poptávka stále převyšuje to, co denně ušijeme a navíc začíná docházet materiál.** Požádali jsme tedy krizový štáb města, aby dal rozhlasem vyhlásit, že hledáme švadleny. Ve městě, kde se vyráběly stroje Lada, se přece musí najít pár šikovných švadlen na šití roušek. **Nestalo se ale nic. V městském rozhlase nic nevyhlásili.** 
 

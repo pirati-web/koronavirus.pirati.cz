@@ -2,9 +2,9 @@
 date:         2020-03-25
 category:     blog
 tags:         
- - celostátní 
- - kontrola moci a mocných 
- - koronavirus
+- celostátní 
+- kontrola moci a mocných 
+- koronavirus
 layout:       post
 title:        "Piráti společně se STAN nominují do krizového štábu ekonoma Filipa Matějku"
 image:        articles/2020/filip-matejka.jpg

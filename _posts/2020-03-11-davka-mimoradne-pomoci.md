@@ -1,6 +1,7 @@
 ---
+layout: post
+category: blog
 date:         2020-03-11
-category:     blog
 tags:         
 - sněmovna 
 - zdravotnictví 

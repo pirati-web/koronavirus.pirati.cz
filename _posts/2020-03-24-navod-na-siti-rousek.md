@@ -1,9 +1,11 @@
 ---
+layout: post
+category: blog
 date:         2020-03-24
 tags:         
- - zdravotnictví 
- - koronavirus 
- - MHMP
+- zdravotnictví 
+- koronavirus 
+- MHMP
 title:        "Šijete roušky? Praha je společně s Českým červeným křížem doručí potřebným"
 image: 	      articles/2020/mhmp/rousky.jpg
 author:       MHMP

@@ -2,15 +2,13 @@
 date:         2020-04-03
 category:     blog
 tags:         
- - evropská unie 
- - kontrola moci a mocných
+- evropská unie 
+- kontrola moci a mocných
 layout:       post
 title:        "Odklad odpovědi na auditní zprávu Evropské komise je skandální. Piráti požadují od MMR vysvětlení"
 image:        articles/2020/michalek.jpg
 author:       Mediální odbor
 --- 
-
- 
 
 Praha, 3. dubna 2020 – Ministerstvo pro místní rozvoj mělo na odpověď k auditní zprávě Evropské komise čtyři měsíce. Piráti považují za skandální, že ji během této doby nezvládlo odeslat a zneužívá epidemii k zdržovací taktice. Předseda poslaneckého klubu Pirátů Jakub Michálek proto interpeloval ministryni pro místní rozvoj Kláru Dostálovou s žádostí o vysvětlení požadovaného odkladu. „Po vstupu do politiky už holding Andreje Babiše získal od státu navíc přes 6,6 miliardy korun. Dotace pro něj stojí daňové poplatníky stejně jako provoz celé Sněmovny a Senátu dohromady,” uvádí Michálek.
 
