@@ -13,11 +13,11 @@ layout: default
       <div class="c-top-sub-nav-divider">
       </div>
       <ul class="c-top-sub-nav-items">
-        <li class="c-top-sub-nav__item "><a href="/komunalni-volby/mapa-zameru/">Zdravotnictví</a></li>
-        <li class="c-top-sub-nav__item "><a href="/komunalni-volby/mapa-zameru/">Ekonomika a finance</a></li>
-        <li class="c-top-sub-nav__item "><a href="/komunalni-volby/mapa-zameru/">Dluhy, exekuce, insolvence</a></li>
-        <li class="c-top-sub-nav__item "><a href="/komunalni-volby/mapa-zameru/">Sociální dopady</a></li>
-        <li class="c-top-sub-nav__item "><a href="/komunalni-volby/mapa-zameru/">Školství</a></li>
+        <li class="c-top-sub-nav__item "><a href="zdravotnictvi.html">Zdravotnictví</a></li>
+        <li class="c-top-sub-nav__item "><a href="ekonomika.html">Ekonomika a finance</a></li>
+        <li class="c-top-sub-nav__item "><a href="exekuce.html">Dluhy, exekuce, insolvence</a></li>
+        <li class="c-top-sub-nav__item "><a href="socialni-dopady.html">Sociální dopady</a></li>
+        <li class="c-top-sub-nav__item "><a href="skolstvi.html">Školství</a></li>
       </ul>      
     </div>
   </div>
@@ -65,7 +65,7 @@ layout: default
       <div class="l-program__priority-donut">
         <img src="/assets/img/icons/a01_ochranne_pomucky.png" style="padding: 20px" />      
       </div>
-      <h3><a href="">Zdravotnictví</a></h3>
+      <h3><a href="zdravotnictvi">Zdravotnictví</a></h3>
     </div>    
   </div>
   <div class="small-12 medium-2 columns">   
@@ -73,7 +73,7 @@ layout: default
       <div class="l-program__priority-donut">
         <img src="/assets/img/icons/a02_ekonomika.png" style="padding: 20px" />
       </div>
-      <h3><a href="">Ekonomika a&nbsp;finance</a></h3>
+      <h3><a href="ekonomika">Ekonomika a&nbsp;finance</a></h3>
     </div>
   </div>
   <div class="small-12 medium-2 columns">   
@@ -81,7 +81,7 @@ layout: default
       <div class="l-program__priority-donut">
         <img src="/assets/img/icons/a01_ochranne_pomucky.png" style="padding: 20px" />
       </div>
-      <h3><a href="">Dluhy,&nbsp;exekuce, insolvence</a></h3>
+      <h3><a href="exekuce">Dluhy,&nbsp;exekuce, insolvence</a></h3>
     </div>
   </div>
   <div class="small-12 medium-2 columns">   
@@ -89,7 +89,7 @@ layout: default
       <div class="l-program__priority-donut">
         <img src="/assets/img/icons/a01_soc_syst.png" style="padding: 20px" />
       </div>
-      <h3><a href="">Sociální dopady</a></h3>
+      <h3><a href="socialni-dopady">Sociální dopady</a></h3>
     </div>
   </div>
   <div class="small-12 medium-2 columns end">   
@@ -97,7 +97,7 @@ layout: default
       <div class="l-program__priority-donut">
         <img src="/assets/img/icons/a01_soc_syst.png" style="padding: 20px" />
       </div>
-      <h3><a href="">Školství</a></h3>
+      <h3><a href="skolstvi">Školství</a></h3>
     </div>
   </div>
 </div>
@@ -455,7 +455,7 @@ Jde o skupinu, která stále zůstává bez adekvátní podpory. Přitom nejde j
                 <div class="columns medium-6">
                 <h3>Články k tématu:</h3>
 
-                  {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","práce a sociální věci"  %}
+                  {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","sociální dopady"  %}
 
                   <ul>
                   {% for post in sorted-posts limit: 10 %}
