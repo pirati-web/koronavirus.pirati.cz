@@ -28,6 +28,16 @@ layout: default
   </div>
 </div>
 
+                <h3>Články k tématu:</h3>
+
+                  {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","sociální dopady"  %}
+
+                  <ul>
+                  {% for post in sorted-posts limit: 10 %}
+                    <li>{{ post.date | date: "%d.%m.%Y" }} - <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
+                  {% endfor %}
+                  </ul>
+
 Sociální dopady
 Upraví - Zuza F.
 
