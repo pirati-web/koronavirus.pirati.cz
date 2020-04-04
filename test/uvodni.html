@@ -177,6 +177,7 @@ layout: default
 
 <hr/>
 
+-->
 <div class="row" style="text-align: center">
   <div class="medium-12 large-12 columns">
     <div class="row" style="text-align: center">
@@ -203,26 +204,45 @@ layout: default
                   </div>
                 </div>
               </div>
-              <h3>Základní body:</h3>
-              <div>
-                <table>
-                  <thead>
-                    <tr><th>Název</th></tr>
-                  </thead>
-                  <tbody>
-                    <tr><td>zajistit dostupnost zdravotnického materiálu a ochranných pomůcek</td></tr>
-                    <tr><td>nastavit jasný a transparentní harmonogram distribuce</td></tr>
-                    <tr><td>využít kapacity domácích výrobců</td></tr>
-                    <tr><td>zajistit / ověřit dostupnost léků v lékárnách a v nemocnicích</td></tr>
-                    <tr><td>realizace pandemického plánu</td></tr>
-                    <tr><td>ocenit zdravotní personál (správné proplácení přesčasů, dostatečný čas na regeneraci)</td></tr>
-                  </tbody>
-                </table>
+
+              <div class="row">
+                <div class="columns medium-6">
+                  <h3>Základní body:</h3>
+
+                  <table>
+                    <thead>
+                      <tr><th>Název</th></tr>
+                    </thead>
+                    <tbody>
+                      <tr><td>Předvídatelnost a jistota vládních kroků - milníky dalšího postupu</td></tr>
+                      <tr><td>Nezapomenout na nejohroženější skupiny</td></tr>
+                      <tr><td>Odpustit OSVČ bez příjmů povinné odvody</td></tr>
+                      <tr><td>Prodloužit ošetřovné a rozšířit ho i na OSVČ</td></tr>
+                      <tr><td>Podpořit kurzarbeit – zvýšit podíl státu na mzdových nákladech a zjednodušit byrokracii </td></tr>
+                      <tr><td>Odlehčit zaměstnavatelům v zasažených odvětvích odpuštěním sociálních a daňových odvodů z práce za zaměstnance</td></tr>
+                      <tr><td>Poskytovat bezúročné půjčky i v menším objemu, než 500 000 Kč</td></tr>
+                      <tr><td>Nemocenskou za lidi v karanténě musí hradit stát ze 100% i nad rámec programu antivirus</td></tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <div class="columns medium-6">
+                <h3>Články k tématu:</h3>
+
+                  {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","zdravotnictví"  %}
+
+                  <ul>
+                  {% for post in sorted-posts limit:5 %}
+                    <li>{{ post.date | date: "%d.%m.%Y" }} - <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
+                  {% endfor %}
+                  </ul>
+                </div>
               </div>
-              <div class="pce-hero__cta">
-                  <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení k zdravotnictví</a>
-              </div>             
-            </article>          
+
+              <div class="medium-12 pce-hero__cta">
+                  <a class="pce-hero__cta-item button large" href="#" target="_blank" rel="noopener">Zobrazit naše řešení ekonomiky a financí</a>
+              </div>              
+            </article>         
           </div>
         </section>
       </div>
@@ -231,7 +251,7 @@ layout: default
 </div>
 
 <hr/>
--->
+
 <div class="row" style="text-align: center">
   <div class="medium-12 large-12 columns">
     <div class="row" style="text-align: center">
