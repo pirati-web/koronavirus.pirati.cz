@@ -138,7 +138,12 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
     </tr>
      <tr>
       <td>Podpoříte mne v osvětě - pomoc v oblasti práv pacientů</td>
-      <td><strong>773 80 22 55</strong>, <strong>603 341 000</strong></td>
+      <td><strong>773 802 255</strong>, <strong>603 341 000</strong></td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>UNIPA - porodní asistentky</td>
+      <td><strong>228 224 063</strong></td>
       <td> </td>
     </tr>
   </tbody>
@@ -172,7 +177,7 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [Vláda ČR](https://www.vlada.cz/cz/media-centrum/aktualne/aktualni-informace-ke-koronaviru-sars-cov-2-puvodne-2019-ncov-179250/)
 
-[Ministerstvo práce a sociálních věcí (MPSV)]( https://www.mpsv.cz/web/cz/informace-ke-koronaviru)
+**[Ministerstvo práce a sociálních věcí (MPSV)]( https://www.mpsv.cz/web/cz/informace-ke-koronaviru)**
 
 [Ministerstvo školství (MŠMT)](http://www.msmt.cz/)
 
@@ -213,6 +218,8 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 [Život 90](https://www.zivot90.cz/cs) - informace pro seniory
 
 [Koroporadna](http://www.uracr.cz/koroporadna?fbclid=IwAR1-kS_NXpaB_ySlUxQp7asZoAxsDZFWd40iazR7JaVMXV-TW4OMI_8LN9o) - Unie rodinných právníků, právní pomoc
+
+[UNIPA - #rodimvklidu](https://rodimvklidu.cz/) - pomoc pro těhotné, nastávající a čerstvé maminky
 
 [Právní poradna studentů Právnické fakulty MU](https://www.law.muni.cz/content/cs/aktualne/poradnakoronavirus/?fbclid=IwAR1eeJx3MzjN4zd4cwGtr2_2PX6WmFk6SR6E4V3TJ0DnuITFHgON0GiI31Y)
 
