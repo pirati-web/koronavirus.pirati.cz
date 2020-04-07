@@ -138,7 +138,7 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
     </tr>
      <tr>
       <td>Podpoříte mne v osvětě - pomoc v oblasti práv pacientů</td>
-      <td><strong>773 80 22 55</strong></td>, <strong>603 341 000</strong></td>
+      <td><strong>773 80 22 55</strong></td>,<strong>603 341 000</strong></td>
       <td> </td>
     </tr>
   </tbody>
