@@ -136,6 +136,11 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
       <td><strong>800 050 248</strong></td>
       <td> </td>
     </tr>
+     <tr>
+      <td>Podpoříte mne v osvětě - pomoc v oblasti práv pacientů</td>
+      <td><strong>773 80 22 55</strong></td>, <strong>603 341 000</strong></td>
+      <td> </td>
+    </tr>
   </tbody>
 </table>
 
@@ -209,6 +214,8 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [Koroporadna](http://www.uracr.cz/koroporadna?fbclid=IwAR1-kS_NXpaB_ySlUxQp7asZoAxsDZFWd40iazR7JaVMXV-TW4OMI_8LN9o) - Unie rodinných právníků, právní pomoc
 
+[Právní poradna studentů Právnické fakulty MU](https://www.law.muni.cz/content/cs/aktualne/poradnakoronavirus/?fbclid=IwAR1eeJx3MzjN4zd4cwGtr2_2PX6WmFk6SR6E4V3TJ0DnuITFHgON0GiI31Y)
+
 [Dělám, co můžu](https://www.delamcomuzu.cz/) - psychologické online konzultace
 
 [Senior point](https://www.seniorpointy.cz/)- bezplatná kontaktní místa přátelská seniorům
@@ -227,9 +234,13 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [busniessinfo.cz](https://www.businessinfo.cz/clanky/koronavirus-pridelava-problemy-ceskym-firmam-kde-hledat-pomoc/)- mj. nejčastější otázky a odpovědi podnikatelů a živnostníků
 
+[Hospodářská komora](https://www.komora.cz/koronavirus/)
+
 [Komora daňových poradců ČR](https://www.kdpcr.cz/)
 
 [Jak nárokovat náhradu škody způsobenou krizovými opatřeními vlády?](https://www.davidzahumensky.cz/2020/03/18/jak-narokovat-nahradu-skody-zpusobenou-krizovymi-opatrenimi-vlady/) - právní poradenství
+
+[Krizová pomoc 2020](http://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/krizova-pomoc-2020.html?fbclid=IwAR1i3p1ffrd2lq8G0yZdk7S6UA0NXmHMCsWT2f8FFrVYE5yEZeRv-zGFDWM) - granty nadace ČEZ
 
 ### Dobrovolníci
 
