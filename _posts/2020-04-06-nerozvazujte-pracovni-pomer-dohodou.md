@@ -7,7 +7,7 @@ tags:
 layout:       post
 title:        "Nerozvazujte pracovní poměr dohodou bez uvedení důvodu, nechte si dát výpověď! Jak se nenechat poškodit při ukončení pracovního poměru?"
 image:        articles/2020/2020-04-06-nerozvazujte-pracovni-pomer-dohodou.jpeg
-author:       Ivan Bartoš
+author:       Šárka Jindrová, Tomáš Liškutin, Redakce
 --- 
  
 
