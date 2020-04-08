@@ -5,6 +5,7 @@ tags:
 - koronavirus
 - legislativa
 - práce a sociální věci
+- sociální dopady
 layout:       post
 title:        "Nárok na příspěvek na bydlení a dětské přídavky nebude nutné dokládat v dubnu a v případě potřeby díky Pirátům ani v červenci"
 image:        articles/2020/richterova.jpg

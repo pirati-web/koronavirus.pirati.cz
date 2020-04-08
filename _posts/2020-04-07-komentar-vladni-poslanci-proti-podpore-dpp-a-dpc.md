@@ -5,6 +5,7 @@ tags:
 - koronavirus
 - finance 
 - legislativa
+- ekonomika
 layout:       post
 title:        "Komentář Mikuláše Ferjenčíka: Vládní poslanci se postavili zády k pracovníkům na dohodu"
 image:        articles/2020/ferjencik.jpg
