@@ -7,7 +7,7 @@ tags:
 - legislativa
 layout:       post
 title:        "Komentář Ivana Bartoše: Vláda odmítla představit plán boje s epidemií. S Piráty budeme nadále hájit zájmy všech, kterých se krize dotýká"
-image:        /assets/img/articles/2020/ivan-rouska-snemovna.jpg
+image:        articles/2020/ivan-rouska-snemovna.jpg
 author:       Ivan Bartoš
 --- 
 
