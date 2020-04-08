@@ -1,13 +1,15 @@
 ---
 date:         2020-04-06
 category:     blog
-tags:         koronavirus zdravotnictví legislativa
+tags:         
+- koronavirus 
+- zdravotnictví 
+- legislativa
 layout:       post
 title:        "České lázeňství je ve vážném ohrožení, varují Piráti"
-image:        /assets/img/articles/2020/tresnak.jpg
+image:        articles/2020/tresnak.jpg
 author:       Mediální odbor
 --- 
-
 
 Praha, 6. dubna 2020 – Opatření proti epidemii koronaviru dopadla i na české lázně, jejichž provoz se téměř ze dne na den zastavil, protože následkem rozhodnutí vlády přišly o jakoukoliv možnost příjmů. Stát přitom doposud nedokázal lázním poskytnout pomocnou ruku a prostřednictvím ministryně pro místní rozvoj Kláry Dostálové mlčí a přihlíží kolapsu českých společností, které lázeňské služby poskytují. Piráti přitom varují před závažnými dopady v podobě konce fungování některých poskytovatelů, tisíců lidí bez práce a zániku lázeňství tak, jak jej známe. Sami proto chystají funkční plán, který by měl být první pomocí v aktuální situaci.
 
