@@ -76,13 +76,21 @@ layout: default
 </ul>
       
                 </div>
-              </div>              
-            </article>
+              </div>
+<hr/>
 
-            <article class="l-prg__card">
               <div class="row">
+                <div class="columns medium-6">
+                  <h3>Co prosazují Piráti:</h3>
 
-                <div class="columns medium-12">
+                  <table>
+                    <tbody>
+
+                    </tbody>
+                  </table>
+                </div>
+
+                <div class="columns medium-6">
                 <h3>Články k tématu:</h3>
 
                   {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "tags","zdravotnictví"  %}
