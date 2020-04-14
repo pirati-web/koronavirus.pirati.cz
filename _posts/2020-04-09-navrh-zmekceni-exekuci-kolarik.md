@@ -1,7 +1,10 @@
 ---
 date:         2020-04-09
 category:     blog
-tags:         koronavirus legislativa exekuce
+tags:         
+ - koronavirus 
+ - legislativa
+ - exekuce
 layout:       post
 title:        "Komentář Lukáše Koláříka: Schválený návrh na změkčení exekucí omezí počet nových dlužníků a usnadní situaci těch současných"
 image:        articles/2020/kolarik.jpg

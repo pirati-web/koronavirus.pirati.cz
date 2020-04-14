@@ -1,7 +1,9 @@
 ---
 date:         2020-04-09
 category:     blog
-tags:         koronavirus lidská-práva
+tags:         
+ - koronavirus
+ - lidská práva
 layout:       post
 title:        "Uzavřené hranice rozdělily registrované partnery. Prosíme vládu o nápravu"
 image:        articles/2019/jan-lipavsky1.jpg

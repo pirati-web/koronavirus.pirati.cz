@@ -1,7 +1,9 @@
 ---
 date:         2020-04-09
 category:     blog
-tags:         koronavirus kultura
+tags:         
+ - koronavirus
+ - kultura
 layout:       post
 title:        "Piráti: Chceme dostupnější podporu z grantů Ministerstva kultury pro malé kulturní projekty"
 image:        articles/2019/kozlova99.jpg

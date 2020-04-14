@@ -1,7 +1,9 @@
 ---
 date:         2020-04-14
 category:     blog
-tags:         koronavirus zdravotnictví
+tags:         
+ - koronavirus
+ - zdravotnictví
 layout:       post
 title:        "Máte strategii pro financování zdravotnictví po epidemii COVID19, ptá se ministra Vojtěcha Pirát Třešňák"
 image:        articles/2020/tresnak.jpg

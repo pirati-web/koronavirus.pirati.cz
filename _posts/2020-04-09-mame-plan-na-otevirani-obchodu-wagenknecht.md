@@ -1,7 +1,10 @@
 ---
 date:         2020-04-09
 category:     blog
-tags:         koronavirus legislativa senát
+tags:         
+ - koronavirus
+ - legislativa
+ - senát
 layout:       post
 title:        "Lukáš Wagenknecht připravil plán otevírání obchodů. Provozovny musíme otevřít plošně, aniž by došlo k ohrožení zákazníků a diskriminaci prodejců, říká"
 image:        articles/2020/lukas-wagenknecht.jpg

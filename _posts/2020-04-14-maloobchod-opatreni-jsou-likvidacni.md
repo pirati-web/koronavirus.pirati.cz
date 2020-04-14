@@ -1,7 +1,10 @@
 ---
 date:         2020-04-14
 category:     blog
-tags:         koronavirus obchod vláda
+tags:         
+ - koronavirus
+ - obchod
+ - vláda
 layout:       post
 title:        "Komentář senátora Lukáše Wagenknechta: Plán uvolnění maloobchodu je pro část podnikatelů likvidační"
 image:        articles/2020/lukas-wagenknecht.jpg
