@@ -3,16 +3,24 @@ layout: default
 title: Aktuality
 description: Novinky z města XY, pirátské kauzy a vše o xy.
 keywords: aktuality, tiskové zprávy, press, blog
+paginate:
+  permalink: /:num/
+  limit: false
+  per_page: 10
+  tag: 'ZM-Kadan'
+  title_suffix: " - stránka :num"  
 ---
 
+<!-- https://github.com/octopress/paginate -->
 
 <div class="row">
   <div class="columns">
     <div class="o-section">
       <div class="o-section-inner">
           <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Aktuality</h1>
+            <h1 itemprop="headline" class="c-page-title">{{ page.title }}</h1>
           </header>
+        
           {% assign posts = paginator.posts %}
           {% include articles/list-responsive.html posts=posts %}
           {% include articles/pagination.html paginator=paginator %}
@@ -20,4 +28,5 @@ keywords: aktuality, tiskové zprávy, press, blog
     </div>
   </div>
 </div>
+
 
