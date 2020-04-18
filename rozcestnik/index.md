@@ -265,7 +265,7 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [ČT 24 pomáhá](https://www.facebook.com/groups/ct24pomaha) - facebook
 
-[Praha pomáhá potřebným](https://www.facebook.com/groups/207938513604708/) - facebooková skupina pro nabádky pomoci
+[Praha pomáhá potřebným](https://www.facebook.com/groups/207938513604708/) - facebooková skupina pro nabídky pomoci
 
 [Dobro v době korony](https://www.facebook.com/groups/603883670162199/) - Brno a JmK
 
