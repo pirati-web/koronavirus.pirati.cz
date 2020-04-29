@@ -98,11 +98,25 @@ markdown: kramdown
 theme: jekyll-theme-pirati
 plugins:
   - jekyll-feed
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-environment-variables
-paginate_path: "/aktuality/:num/"
-paginate: 11
+  - jekyll-paginate-v2
+
+# Due to us using the categories for posts then it is advisable to explicitly specify a 
+# permalink structure for the site. Otherwise Jekyll attempts to organize the pages in folders
+# by the category names and it doesn't understand multi-categories to well :/
+permalink: /:year/:month/:title.html
+#permalink: pretty
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 exclude:
   - readme.md
@@ -166,7 +180,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video

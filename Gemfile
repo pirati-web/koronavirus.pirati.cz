@@ -13,7 +13,7 @@ gem "jekyll", "~> 3.7.3"
 
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
 # Comment this line for local development.
-gem "jekyll-theme-pirati", "~>7.5.0"
+gem "jekyll-theme-pirati", "7.7.1"
 
 # Uncomment this line for local development.
 # gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
@@ -25,17 +25,19 @@ gem "jekyll-theme-pirati", "~>7.5.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-paginate"
   gem "jekyll-sitemap"
   # gem "github-pages"
-  gem "jekyll-assets", "3.0.11", group: :jekyll_plugins
+  gem "jekyll-assets", "3.0.11"
   gem 'jekyll-environment-variables'
+  gem "jekyll-paginate-v2"   
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "json" # For gem building
+#tak tohle bych nedoporucoval a.r.
+#gem 'sassc-rails', '~> 2.0.0'   # sass changed build binary
 gem 'sprockets', '4.0.0.beta8'
 gem 'uglifier', '~> 4.0.0'
 gem "mini_magick"
