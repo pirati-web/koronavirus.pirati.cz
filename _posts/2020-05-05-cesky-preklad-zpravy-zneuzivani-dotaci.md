@@ -8,7 +8,6 @@ image:        articles/2019/mikulas-peksa-eu.jpg
 author:       Mediální odborikuláš Peksa
 
 
-
 Praha - 5, května 2020 - Minulý týden jsme informovali o tom, že: Zpráva kontrolní mise Evropského parlamentu s jistotou potvrdila mnohaleté obavy ohledně střetu zájmů Andreje Babiše. Jako členové mise jsme sesbírali důkazy, které svědčí o zásadních systémových chybách, které v Česku u vyplácení dotací panují. Zprávou se nyní bude zabývat výbor pro rozpočtovou kontrolu i celý Evropský parlament. Pokud Česká republika situaci urychleně nenapraví a Andrej Babiš se bude stále držet svého majetku i politické moci, bude za to u Soudního dvora EU platit celé Česko.
 
 Nyní vám exkluzivně přináším [ČESKÝ PŘEKLAD ZÁVĚREČNÉ ZPRÁVY KONTROLNÍ MISE](https://www.pirati.cz/assets/pdf/zprava-cont-2020.pdf) připravený naším týmem. Myslím si, že každý občan České republiky má právo na svobodný přístup k informacím o tom, jak český stát nehospodárně nakládá s evropskými penězi, česky.
