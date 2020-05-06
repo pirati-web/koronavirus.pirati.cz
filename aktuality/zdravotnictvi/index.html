@@ -1,36 +1,32 @@
 ---
 layout: default
-title: Kraje
-description: Kraje
+title: Zdravotnictví
+description: Nejnovější články a příspěvky. Vše podstatné na jednom místě.
 keywords: články, aktuality, příspěvky, novinky
 pagination: 
   enabled: true
   permalink: /:num/
   enabled: true
+  tag: zdravotnictví
   per_page: 12
   permalink: /:num/
-  sort_field: 'book:rank'
-  sort_reverse: false
+  sort_field: 'date'
+  sort_reverse: true
   trail: 
     before: 2
     after: 2
 ---
 <div class="row">
-  <div class="medium-12 large-8 columns">
+  <div class="columns">
     <div class="o-section">
       <div class="o-section-inner">
           <header class="c-page-header">
             <h1 itemprop="headline" class="c-page-title">{{ page.title }}</h1>
           </header>
           {% assign posts = paginator.posts %}
-          {% for article in posts %}
-            {% include articles/horizontal-article.html article=article %}
-          {% endfor %}          
+          {% include articles/list-responsive.html posts=posts %}
           {% include articles/pagination.html paginator=paginator %}
       </div>
     </div>
   </div>
-
-  {% include_relative map.html %}
-
 </div>
