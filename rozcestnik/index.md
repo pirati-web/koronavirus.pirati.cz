@@ -223,6 +223,8 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [Právní poradna studentů Právnické fakulty MU](https://www.law.muni.cz/content/cs/aktualne/poradnakoronavirus/?fbclid=IwAR1eeJx3MzjN4zd4cwGtr2_2PX6WmFk6SR6E4V3TJ0DnuITFHgON0GiI31Y)
 
+[Otevřené právo](https://www.otevrenepravo.cz/app/)
+
 [Dělám, co můžu](https://www.delamcomuzu.cz/) - psychologické online konzultace
 
 [Senior point](https://www.seniorpointy.cz/)- bezplatná kontaktní místa přátelská seniorům
@@ -245,15 +247,21 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [Komora daňových poradců ČR](https://www.kdpcr.cz/)
 
+[Spojujeme Česko](https://spojujemecesko.cz/)
+
 [Jak nárokovat náhradu škody způsobenou krizovými opatřeními vlády?](https://www.davidzahumensky.cz/2020/03/18/jak-narokovat-nahradu-skody-zpusobenou-krizovymi-opatrenimi-vlady/) - právní poradenství
 
 [Krizová pomoc 2020](http://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/krizova-pomoc-2020.html?fbclid=IwAR1i3p1ffrd2lq8G0yZdk7S6UA0NXmHMCsWT2f8FFrVYE5yEZeRv-zGFDWM) - granty nadace ČEZ
+
+[Můj grantový diář](https://grantovydiar.cz/#)
 
 ### Dobrovolníci
 
 [Mapa pomoci](https://www.google.com/maps/d/u/0/viewer?mid=1QFosGdbkLSW1reiik0QHri-Itw26w616&ll=49.85650203205556%2C15.53335108177339&z=8&utm_source=81180-Milion%20chvilek&utm_medium=email&utm_term=4498694831&utm_content=MAPU%20POMOCI&utm_campaign=Newsletter--20200319&fbclid=IwAR2Wz4AlA90gBwIxwN0-C9lG060JgBWeCqOjGrp-k7I8lnghCyenoFyPsfo)
 
 [damerousky.cz](https://www.damerousky.cz) - sdílení podomácku vyrobených roušek
+
+[Spojujeme Česko](https://spojujemecesko.cz/)
 
 [Daruj zdravotníkovi respirátor](https://www.facebook.com/darujzdravotnikovirespirator/) - propojení nabídky a poptávky po ochranných pomůckách
 
