@@ -8,7 +8,6 @@ image:        articles/2020/bartos-deloitte.jpg
 author:       Mediální odbor
 ---  
 
- 
 Praha, 14. května 2020 – Předseda Pirátů Ivan Bartoš, který vede sněmovní Výbor pro veřejnou správu, převzal dnes ve společnosti Deloitte spolu s dalšími poslanci cenu Zákon roku za přípravu tzv. digitální ústavy. Ta dává občanům právo na komunikaci s úřady a státem přes internet postupně do pěti let. Zákon prošel legislativním procesem na konci minulého roku po více než roční konstruktivní spolupráci sněmovních stran, odborníků z komerční sféry a resortů ministerstev, a to pod záštitou Výboru pro veřejnou správu.
 
 Zákon o právu na digitální službu již obdržel několik ocenění. Dnes získal cenu Zákon roku, který organizuje advokátní kancelář Deloitte Legal ve spolupráci s partnery z oblasti podnikatelské a právnické obce. Cenu převzali zástupci sněmovního výboru, hlavní tahouni jednotlivých stran i spolupracující zástupci komerčního sektoru. 
