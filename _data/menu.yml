@@ -21,6 +21,8 @@ main:
   - link: /reseni/
     name: Naše řešení
     match: vyresi
+  - link: https://budoucnostresimeted.cz
+    name: "Chytrý plán"
 
 bottom:
   - class: small-12 medium-4
