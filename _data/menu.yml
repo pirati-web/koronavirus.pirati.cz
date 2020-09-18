@@ -14,7 +14,7 @@ main:
     name: Úvod
   - link: /aktuality/
     name: Aktuality
-    #external: true    
+    #external: true
   - link: /rozcestnik/
     name: Rozcestník
   #- link: https://pirati.cz/koronavirus
@@ -23,6 +23,9 @@ main:
     match: vyresi
   - link: https://budoucnostresimeted.cz
     name: "Chytrý plán"
+  - link: https://volby.resimeted.cz
+    name: Volby
+    external: true
 
 bottom:
   - class: small-12 medium-4
