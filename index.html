@@ -18,23 +18,6 @@ rbar:
    - video
 keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
 ---
-{% capture panel %} 
-
-## Co na webu najdete?
-
-- [**rozcestník**](/rozcestnik/) důležitých telefonních čísel a informačních webů
-- [**naše řešení**](/reseni/) - návrhy z pirátské dílny, jak by podle našeho názoru věci měly nebo mohly fungovat během krizového řízení státu
-- [**aktuality**](/aktuality/) - zprávy o tom, co podnikáme, a co se daří realizovat
-- [Mimořádný newsletter k aktuální situaci](https://nalodeni.pirati.cz/news/list/58/)
-- Zaujalo vás, co děláme? **[Naloďte se](https://nalodeni.pirati.cz/) na pirátskou palubu.**
-
-Obsahová stránka a podněty:  
-<a href="mailto:freitas.zuzana@gmail.com?Subject=koronavirus.pirati.cz">Zuzana Freitas Lopesová</a>
-(asistentka poslankyně Olgy Richterové).
-
-{% endcapture %}
-{% capture md %} 
-
 <h2><a href="https://budoucnostresimeted.cz/" target="_blank" rel="noopener">Budoucnost řešíme teď</a></h2>
 <section class="o-section o-section--spaceBot">
 
@@ -98,6 +81,24 @@ Obsahová stránka a podněty:
           {% include right-bar/bar_video.html video=page.ruce %}
           {% include right-bar/bar_video.html video=page.rousky %}
           {% include right-bar/bar_video.html video=page.cisteni %}
+
+
+{% capture panel %} 
+## Co na webu najdete?
+
+- [**rozcestník**](/rozcestnik/) důležitých telefonních čísel a informačních webů
+- [**naše řešení**](/reseni/) - návrhy z pirátské dílny, jak by podle našeho názoru věci měly nebo mohly fungovat během krizového řízení státu
+- [**aktuality**](/aktuality/) - zprávy o tom, co podnikáme, a co se daří realizovat
+- [Mimořádný newsletter k aktuální situaci](https://nalodeni.pirati.cz/news/list/58/)
+- Zaujalo vás, co děláme? **[Naloďte se](https://nalodeni.pirati.cz/) na pirátskou palubu.**
+
+Obsahová stránka a podněty:  
+<a href="mailto:freitas.zuzana@gmail.com?Subject=koronavirus.pirati.cz">Zuzana Freitas Lopesová</a>
+(asistentka poslankyně Olgy Richterové).
+
+{% endcapture %}
+{% capture md %}
+          
           {{ panel | markdownify }} 
       </div>
     </aside>
