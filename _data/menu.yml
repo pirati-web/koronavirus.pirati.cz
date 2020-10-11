@@ -23,8 +23,6 @@ main:
     match: vyresi
   - link: https://budoucnostresimeted.cz
     name: "Chytrý plán"
-  - link: https://volby.resimeted.cz
-    name: Volby
     external: true
 
 bottom:
