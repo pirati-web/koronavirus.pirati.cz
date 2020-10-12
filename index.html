@@ -18,22 +18,7 @@ rbar:
    - video
 keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
 ---
-{% capture md %} 
 
-<h2><a href="https://budoucnostresimeted.cz/" target="_blank" rel="noopener">Budoucnost řešíme teď</a></h2>
-<section class="o-section o-section--spaceBot">
-
-<p><b>Vítejte na stránkách, které slouží k rychlému dohledání zdrojů informací o všem, co souvisí s pandemií koronaviru.</b></p> 
-
-<p>Kontakty, zprávy, informace, výzvy k pomoci nebo naopak nabídky pomoci se na nás hrnou ze všech stran. Je těžké vybrat ty hlavní nebo ty opravdu užitečné. Je těžké usledovat vše, co se děje. A většinou člověk potřebuje informaci nebo kontakt rychle.</p>
-
-<p>Nabízíme <b><a href="https://koronavirus.pirati.cz/rozcestnik/" target="_blank" rel="noopener">rozcestník</a></b>, který vám hledání usnadní - najdete zde hlavní infolinky, důležité telefony na klíčové instituce, odkazy na krizové poradny, které nabízí pomoc a služby spojené s dopady nouzového stavu, odkazy na weby a facebookové stránky, které soustřeďují zájemce o pomoc nebo naopak nabídky pomoci.</p>
-
-<p>Podívejte se i na <b><a href="https://koronavirus.pirati.cz/reseni/" target="_blank" rel="noopener">návrhy Pirátů</a></b>, jak by věci měly nebo mohly fungovat během krize lépe než nyní!</p> 
-
-<p><a href="https://www.pirati.cz/vysledky/#type=koronavirus&datefilter6=all" target="_blank" rel="noopener"><strong>Přehled toho nejdůležitějšího, na čem Piráti pracují nejen v Poslanecké sněmovně</strong></a></p>
-
-{% endcapture %}
 
 <div class="row">
 	{% if page.article-boxes %}
@@ -50,13 +35,26 @@ keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
     <!-- Article -->
     <article itemtype="http://schema.org/BlogPosting" itemscope="">
         {% capture content %} 
-        {{ md | markdownify }} 
         {{ md2 | markdownify }} 
         {% endcapture %}
         {% include page-header.html headline=page.title content=content %}
     </article>
     <!-- /Article -->    
 
+<h2><a href="https://budoucnostresimeted.cz/" target="_blank" rel="noopener">Budoucnost řešíme teď</a></h2>
+<section class="o-section o-section--spaceBot">
+
+<p><b>Vítejte na stránkách, které slouží k rychlému dohledání zdrojů informací o všem, co souvisí s pandemií koronaviru.</b></p> 
+
+<p>Kontakty, zprávy, informace, výzvy k pomoci nebo naopak nabídky pomoci se na nás hrnou ze všech stran. Je těžké vybrat ty hlavní nebo ty opravdu užitečné. Je těžké usledovat vše, co se děje. A většinou člověk potřebuje informaci nebo kontakt rychle.</p>
+
+<p>Nabízíme <b><a href="https://koronavirus.pirati.cz/rozcestnik/" target="_blank" rel="noopener">rozcestník</a></b>, který vám hledání usnadní - najdete zde hlavní infolinky, důležité telefony na klíčové instituce, odkazy na krizové poradny, které nabízí pomoc a služby spojené s dopady nouzového stavu, odkazy na weby a facebookové stránky, které soustřeďují zájemce o pomoc nebo naopak nabídky pomoci.</p>
+
+<p>Podívejte se i na <b><a href="https://koronavirus.pirati.cz/reseni/" target="_blank" rel="noopener">návrhy Pirátů</a></b>, jak by věci měly nebo mohly fungovat během krize lépe než nyní!</p> 
+
+<p><a href="https://www.pirati.cz/vysledky/#type=koronavirus&datefilter6=all" target="_blank" rel="noopener"><strong>Přehled toho nejdůležitějšího, na čem Piráti pracují nejen v Poslanecké sněmovně</strong></a></p>
+	  
+	  
     <h2>Aktuálně</h2>
     <section class="o-section o-section--spaceBot">
       <div class="o-section-inner o-section-inner--leftBlock">
