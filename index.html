@@ -19,21 +19,22 @@ rbar:
 keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
 ---
 
+{% include homepage/banner.html
+   link='/reseni/'
+   title='Jak se společně postavit koronaviru?'
+   default='https://a.pirati.cz/mo/img/banner/koronavirus.png'
+   mobile='https://a.pirati.cz/mo/img/banner/koronavirus.png'
+   breakpoint=640
+%}
+
 
 <div class="row">
-	{% if page.article-boxes %}
-		{% include article-box/three-in-row.html article-boxes=page.article-boxes %}
-	{% endif %}
-    {% include homepage/banner.html 
-       link='/reseni/'
-       title='Jak se společně postavit koronaviru?'
-       default='https://a.pirati.cz/mo/img/banner/koronavirus.png'
-    %}
-
   <div class="medium-12 large-8 columns">
-
-<h2><a href="https://budoucnostresimeted.cz/" target="_blank" rel="noopener">Budoucnost řešíme teď</a></h2>
-<section class="o-section o-section--spaceBot">
+    <section class="o-section o-section--spaceBot">
+      <div class="o-section-inner o-section-inner--leftBlock">
+        <header class="o-section-header">
+          <h1 class="o-section__heading t-h1-super"><a href="https://budoucnostresimeted.cz/" target="_blank" rel="noopener">Budoucnost řešíme teď</a></h1>
+        </header>
 
 <p><b>Vítejte na stránkách, které slouží k rychlému dohledání zdrojů informací o všem, co souvisí s pandemií koronaviru.</b></p> 
 
@@ -44,11 +45,9 @@ keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
 <p>Podívejte se i na <b><a href="https://koronavirus.pirati.cz/reseni/" target="_blank" rel="noopener">návrhy Pirátů</a></b>, jak by věci měly nebo mohly fungovat během krize lépe než nyní!</p> 
 
 <p><a href="https://www.pirati.cz/vysledky/#type=koronavirus&datefilter6=all" target="_blank" rel="noopener"><strong>Přehled toho nejdůležitějšího, na čem Piráti pracují nejen v Poslanecké sněmovně</strong></a></p>
-	  
-	  
-    <h2>Aktuálně</h2>
-    <section class="o-section o-section--spaceBot">
-      <div class="o-section-inner o-section-inner--leftBlock">
+
+
+          <h2>Aktuálně od Pirátů z Prahy 11 - Jižního Města</h2>
         {% for article in site.posts limit: 6 %}
           {% include articles/horizontal-article.html article=article %}
         {% endfor %}
@@ -57,13 +56,9 @@ keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
         </div>
       </div>
     </section>
-
-
-	</div>
-	<div class="medium-12 large-4 columns">
-    <aside class="o-section">
-      <div class="o-section-inner o-section-inner--rightBlock">
-
+  </div>
+  {% if page.rbar %}
+  <div class="medium-12 large-4 columns">
           <p id="en" style="text-align: right">
           <a href="/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/cz.png" alt="cz"></a>
           <a href="/en/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/gb.png" alt="gb"></a>
@@ -89,7 +84,6 @@ Obsahová stránka a podněty:
 {% endcapture %}
           
           {{ panel | markdownify }} 
-      </div>
-    </aside>
-	</div>
+  </div>
+  {% endif %}
 </div>
