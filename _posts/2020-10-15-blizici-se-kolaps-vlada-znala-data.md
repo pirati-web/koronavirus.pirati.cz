@@ -4,7 +4,7 @@ category:     blog
 tags:         kontrola-moci-a-mocných vláda zdravotnictví
 layout:       post
 title:        "Komentář Ondřeje Profanta: Vláda o blížící se pohromě věděla, ale řídila se mediálním obrazem. Ať vláda nemehel naslouchá odborníkům"
-image:        assets/img/articles/2020/profant.jpg
+image:        articles/2020/profant.jpg
 author:       Ondřej Profant
 ---
 
