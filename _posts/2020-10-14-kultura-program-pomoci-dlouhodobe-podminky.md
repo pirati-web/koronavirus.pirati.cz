@@ -4,7 +4,7 @@ category:     blog
 tags:         kultura finance koronavirus
 layout:       post
 title:        "Komentář Lenky Kozlové: Vláda vyslyšela apel Pirátů na rozšíření okruhu příjemců pomoci, chceme znát dlouhodobé podmínky podpory v kultuře"
-image:        assets/img/articles/2019/lenka-kozlova1.jpg
+image:        articles/2019/lenka-kozlova1.jpg
 author:       Lenka Kozlová
 ---
 
