@@ -179,6 +179,8 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [Státní zdravotní ústav (SZÚ)](http://szu.cz/tema/prevence/2019ncov) - hygiena
 
+**[Odběrová místa na COVID-19]( https://covid.praha.eu/)** - portál Bezpecnost.Praha.eu
+
 [Vláda ČR](https://www.vlada.cz/cz/media-centrum/aktualne/aktualni-informace-ke-koronaviru-sars-cov-2-puvodne-2019-ncov-179250/)
 
 **[Ministerstvo práce a sociálních věcí (MPSV)]( https://www.mpsv.cz/web/cz/informace-ke-koronaviru)**
