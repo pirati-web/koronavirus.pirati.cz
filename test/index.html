@@ -1,11 +1,44 @@
 ---
 layout: default
+#title: Rozcestník - koronavirus
+ruce: 
+    title: Informační video
+    id: "8Z679ocBIa0"
+rousky: 
+    title: Výroba roušek
+    id: "s-hsj4gTJPg"
+facebook:
+    profilePageName: Česká pirátská strana
+    profilePage: https://www.facebook.com/ceska.piratska.strana/
+img: 'header/koronavirus-core.png'
+rbar:
+   - facebook
+   - video
+keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
 ---
 
-  {% assign sorted-posts = site.posts | sort: 'date' | reverse | where: "category","pomoc"  %}
+<!-- Start WOWSlider.com HEAD section -->
+<link rel="stylesheet" type="text/css" href="/assets/wowslider/sample/styles/style.css" />
 
-  <ul>
-  {% for post in sorted-posts %}
-    <li>{{ post.date | date: "%d.%m.%Y" }} - <a class="c-headline-anchor" href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul>
+
+<div class="medium-12 large-8 columns">
+
+<!-- Start WOWSlider.com BODY section -->
+<div id="wowslider-container">
+<div class="ws_images"><ul>
+<li><a href="#"><img src="/assets/img/banners/osvc.png" alt="" title="" id="wows_0"/></a></li>
+<li><a href="#"><img src="/assets/img/banners/co-delat.jpg" alt="You can add description to slides!" title="text" id="wows_1"/></a></li>
+<li><a href="#"><img src="/assets/img/banners/dane.jpg" alt="" title="" id="wows_2"/></a></li>
+</ul></div>
+<div class="ws_bullets"><div>
+<a href="#" title=""><img src="/assets/img/banners/osvc.png" alt=""/>1</a>
+<a href="#" title="You can add description to slides!"><img src="/assets/img/banners/co-delat.jpg" alt="text"/>2</a>
+<a href="#" title=""><img src="/assets/img/banners/dane.jpg" alt=""/>3</a>
+</div></div>
+<a href="#" class="ws_frame"></a>
+</div>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="/assets/wowslider/wowslider.js"></script>
+<script type="text/javascript" src="/assets/wowslider/sample/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
