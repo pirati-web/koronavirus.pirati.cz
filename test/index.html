@@ -17,11 +17,14 @@ rbar:
 keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
 ---
 
-<!-- Start WOWSlider.com HEAD section -->
+<div class="row">
+  <div class="medium-12 large-8 columns">
+    <section class="o-section o-section--spaceBot">
+      <div class="o-section-inner o-section-inner--leftBlock">
+
+          <!-- Start WOWSlider.com HEAD section -->
 <link rel="stylesheet" type="text/css" href="/assets/wowslider/sample/styles/style.css" />
 
-
-<div class="medium-12 large-8 columns">
 
 <!-- Start WOWSlider.com BODY section -->
 <div id="wowslider-container">
@@ -42,3 +45,24 @@ keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
 <script type="text/javascript" src="/assets/wowslider/wowslider.js"></script>
 <script type="text/javascript" src="/assets/wowslider/sample/script.js"></script>
 <!-- End WOWSlider.com BODY section -->
+          
+
+          <h2>Aktuálně</h2>
+        {% for article in site.posts limit: 6 %}
+          {% include articles/horizontal-article.html article=article %}
+        {% endfor %}
+        <div class="c-article-listing__nextbox">
+          <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
+        </div>
+      </div>
+    </section>
+  </div>
+  {% if page.rbar %}
+  <div class="medium-12 large-4 columns">
+
+  </div>
+  {% endif %}
+</div>
+
+
+
