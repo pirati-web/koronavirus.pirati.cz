@@ -1,34 +1,11 @@
----
-layout: default
-#title: Rozcestník - koronavirus
-ruce: 
-    title: Informační video
-    id: "8Z679ocBIa0"
-rousky: 
-    title: Výroba roušek
-    id: "s-hsj4gTJPg"
-facebook:
-    profilePageName: Česká pirátská strana
-    profilePage: https://www.facebook.com/ceska.piratska.strana/
-img: 'header/koronavirus-core.png'
-rbar:
-   - facebook
-   - video
-keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
----
 
+<!DOCTYPE html>
+<html lang="en">
 
-
-
-
-
-
-<div class="row">
-
-
-
-
-
+<head>
+  <meta charset="utf-8">
+  <title>Swiper demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
   <!-- Link Swiper's CSS -->
   <link rel="stylesheet" href="https://swiperjs.com/package/swiper-bundle.min.css">
@@ -75,16 +52,22 @@ keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
       align-items: center;
     }
   </style>
-
+</head>
 
 <body>
   <!-- Swiper -->
   <div class="swiper-container">
     <div class="swiper-wrapper">
-      <div class="swiper-slide"><img src="/assets/img/banners/slider1.jpg" width="100%" /></div>
-      <div class="swiper-slide"><img src="/assets/img/banners/slider2.jpg" width="100%" /></div>
-      <div class="swiper-slide"><img src="/assets/img/banners/slider3.jpg" width="100%" /></div>
-      <div class="swiper-slide"><img src="/assets/img/banners/slider4.jpg" width="100%" /></div>
+      <div class="swiper-slide">Slide 1</div>
+      <div class="swiper-slide">Slide 2</div>
+      <div class="swiper-slide">Slide 3</div>
+      <div class="swiper-slide">Slide 4</div>
+      <div class="swiper-slide">Slide 5</div>
+      <div class="swiper-slide">Slide 6</div>
+      <div class="swiper-slide">Slide 7</div>
+      <div class="swiper-slide">Slide 8</div>
+      <div class="swiper-slide">Slide 9</div>
+      <div class="swiper-slide">Slide 10</div>
     </div>
     <!-- Add Arrows -->
     <div class="swiper-button-next"></div>
@@ -111,35 +94,6 @@ keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
       keyboard: true,
     });
   </script>
+</body>
 
-
-
-
-
-
-
-  <div class="medium-12 large-8 columns">
-    <section class="o-section o-section--spaceBot">
-      <div class="o-section-inner o-section-inner--leftBlock">
-
-        
-          
-
-          
-
-          <h2>Aktuálně</h2>
-        {% for article in site.posts limit: 6 %}
-          {% include articles/horizontal-article.html article=article %}
-        {% endfor %}
-        <div class="c-article-listing__nextbox">
-          <a href="{{'/aktuality/' | relative_url}}" rel="next" class="button expanded large">Další články</a>
-        </div>
-      </div>
-    </section>
-  </div>
-  {% if page.rbar %}
-  <div class="medium-12 large-4 columns">
-
-  </div>
-  {% endif %}
-</div>
+</html>
