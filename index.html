@@ -19,13 +19,7 @@ rbar:
 keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
 ---
 
-{% include homepage/banner.html
-   link='/reseni/'
-   title='Jak se společně postavit koronaviru?'
-   default='https://a.pirati.cz/mo/img/banner/koronavirus.png'
-   mobile='https://a.pirati.cz/mo/img/banner/koronavirus.png'
-   breakpoint=640
-%}
+{% include homepage/banner.html %}
 
 
 <div class="row">
@@ -64,7 +58,6 @@ keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
           <a href="/en/"><img src="https://a.pirati.cz/resize/-x30/common/img/flags/gb.png" alt="gb"></a>
           </p>    
 
-          {% include right-bar/bar_video.html video=page.ruce %}
           {% include right-bar/bar_video.html video=page.rousky %}
           {% include right-bar/bar_video.html video=page.cisteni %}
 
