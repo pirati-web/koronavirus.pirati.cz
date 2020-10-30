@@ -19,8 +19,14 @@ rbar:
 keywords: úvod, piráti koronavirus, výroba roušek, video, dobrovolníci
 ---
 
+<div class="row">	
+  <div class="medium-12 large-8 columns">	
+    <section class="o-section o-section--spaceBot">	
+      <div class="o-section-inner o-section-inner--leftBlock">	
+        <header class="o-section-header">	
+          <h1 class="o-section__heading t-h1-super"><a href="https://budoucnostresimeted.cz/" target="_blank" rel="noopener">Aktuálně</a></h1>	
+        </header>
 
-          <h2>Aktuálně</h2>
         {% for article in site.posts limit: 6 %}
           {% include articles/horizontal-article.html article=article %}
         {% endfor %}
