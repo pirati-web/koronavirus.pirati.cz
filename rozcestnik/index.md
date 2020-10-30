@@ -13,13 +13,13 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 <table>
   <tbody>
+     <tr>
+      <td width="50%"><strong>Bezplatná informační linka ke koronaviru pro občany</strong></td>
+      <td width="50%"><strong>1221</strong></td>
+    </tr>
     <tr>
       <td width="50%"><strong>Bezplatná informační linka ke koronaviru pro podnikatele</strong></td>
       <td width="50%"><strong>1212</strong></td>
-    </tr>
-    <tr>
-      <td width="50%"><strong>Zpoplatněná informační linka ke koronaviru pro občany</strong></td>
-      <td width="50%"><strong>1221</strong></td>
     </tr>
     <tr>
       <td><strong>Nonstop infolinky Státního zdravotního ústavu (SZÚ)</strong></td>
