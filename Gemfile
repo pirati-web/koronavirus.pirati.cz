@@ -29,7 +29,7 @@ group :jekyll_plugins do
   # gem "github-pages"
   gem "jekyll-assets", "3.0.11"
   gem 'jekyll-environment-variables'
-  #gem "jekyll-paginate-v2"   
+  gem "jekyll-paginate-v2"   
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
