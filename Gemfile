@@ -29,7 +29,7 @@ group :jekyll_plugins do
   # gem "github-pages"
   gem "jekyll-assets", "3.0.11"
   gem 'jekyll-environment-variables'
-  gem "jekyll-paginate-v2"   
+  #gem "jekyll-paginate-v2"   
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -41,7 +41,7 @@ gem "json" # For gem building
 gem 'sprockets', '4.0.0.beta8'
 gem 'uglifier', '~> 4.0.0'
 gem "mini_magick"
-gem "autoprefixer-rails"
+#gem "autoprefixer-rails"
 gem "image_optim"
 gem "image_optim_bin" # Optional
 gem "image_optim_pack"
