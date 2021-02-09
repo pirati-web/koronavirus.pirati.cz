@@ -3,7 +3,8 @@ date:         2021-02-09
 category:     blog
 tags:         sněmovna legislativa koronavirus
 layout:       post
-title:        "Piráti představili návrhy na pomoc lidem a firmám v krizi. Chtějí lepší kompenzace, postupné otevření škol, vyšší nemoc/assets/img/articles/2021/79schuze3.jpg
+title:        "Piráti představili návrhy na pomoc lidem a firmám v krizi. Chtějí lepší kompenzace, postupné otevření škol, vyšší nemocenskou, řešení exekucí i pandemický zákon"
+image:        articles/2021/79schuze3.jpg
 author:       
 ---
 
