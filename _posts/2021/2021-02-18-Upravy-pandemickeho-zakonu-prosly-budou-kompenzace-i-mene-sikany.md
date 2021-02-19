@@ -4,7 +4,7 @@ category:     blog
 tags:         koronavir pandemicky-zakon snemovna nouzovy-stav
 layout:       post
 title:        "Piráti a Starostové prosadili úpravy v pandemickém zákoně. Zavádí kompenzace pro lidi, omezuje šikanózní opatření a pomáhá efektivně bojovat s covidem"
-image:        /assets/img/articles/2021/Ivan Bartos Vit Rakusan STAN 3.jpg
+image:        articles/2021/ivan-bartos-vit-rakusan-stan3.jpg
 author:       
 ---
 
