@@ -4,7 +4,7 @@ category:     blog
 tags:         sn2movna legislativa
 layout:       post
 title:        "Piráti žádají zajištění testovacích kapacit pro firmy a jasný návod, jak mají podniky postupovat. Navrhují i úpravy v očkovací strategii či kompenzacích"
-image:        /assets/img/articles/2021/87schuze1.jpg
+image:        articles/2021/87schuze1.jpg
 author:       
 ---
  
