@@ -189,7 +189,7 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [Ministerstvo vnitra (MV)](https://www.mvcr.cz/clanek/coronavirus-informace-mv.aspx)
 
-**[Ministerstvo průmyslu a obchodu (MPO)](https://www.mpo.cz/cz/rozcestnik/pro-media/tiskove-zpravy/podrobnejsi-rozcestnik-v-kontextu-s-koronavirem--253458/)** - podrobný rozcestník!
+**[Ministerstvo průmyslu a obchodu (MPO)](https://www.mpo.cz/cz/rozcestnik/koronavirus/)**
 
 [Ministerstvo financí (MF)]( https://www.mfcr.cz/cs/aktualne/koronavirus-covid-19/2020/ministerstvo-financi-prehledne-ke-korona-37925)
 
