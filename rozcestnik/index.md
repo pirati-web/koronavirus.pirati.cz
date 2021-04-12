@@ -195,7 +195,7 @@ keywords: telefony, linky, webové stránky, infolinky, poradny, rozcestník
 
 [Ministerstvo zahraničí (MZV)]( https://www.mzv.cz/jnp/)
 
-[Ministerstvo dopravy (MD)]( https://www.mdcr.cz/Media/Media-a-tiskove-zpravy/Od-soboty-plati-mimoradna-opatreni-v-mezinarodni-d)
+[Ministerstvo dopravy (MD)]( https://www.mdcr.cz/Media/Media-a-tiskove-zpravy)
 
 [Ministerstvo zemědělství (MZe)]( http://eagri.cz/public/web/mze/)
 
