@@ -4,7 +4,7 @@ category:     blog
 tags:         zdravotnictví koronavirus vláda
 layout:       post
 title:        "Počet nakažených opět roste: Piráti a Starostové znovu vyzývají vládu k přípravě a předkládají návrhy na ochranu obyvatel, motivaci k očkování i zajištění bezpečného provozu škol či obchodů"
-image:        /assets/img/articles/2021/michalek-bartos-rakusan-gazdik.jpg
+image:        articles/2021/michalek-bartos-rakusan-gazdik.jpg
 author:       
 ---
 
